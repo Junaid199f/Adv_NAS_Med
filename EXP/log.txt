@@ -1,0 +1,1629 @@
+2023-03-24 13:46:12,881 Parents_Trained_status: True
+2023-03-24 13:46:12,882 Resume Training Status: True
+2023-03-24 13:46:12,882 Generation Number # 1
+2023-03-24 14:06:06,346 Parents_Trained_status: True
+2023-03-24 14:06:06,346 Resume Training Status: True
+2023-03-24 14:06:06,347 Generation Number # 1
+2023-03-24 14:22:19,856 Epoch [1], Loss: 0.7686, Training Accuracy: 68.26%, Validation Accuracy: 70.11%
+2023-03-24 15:46:20,291 Parents_Trained_status: True
+2023-03-24 15:46:20,291 Resume Training Status: True
+2023-03-24 15:46:20,291 Generation Number # 1
+2023-03-24 15:46:51,903 Parents_Trained_status: True
+2023-03-24 15:46:51,903 Resume Training Status: True
+2023-03-24 15:46:51,903 Generation Number # 1
+2023-03-24 15:52:52,291 Parents_Trained_status: True
+2023-03-24 15:52:52,291 Resume Training Status: True
+2023-03-24 15:52:52,291 Generation Number # 1
+2023-03-24 15:58:17,713 Parents_Trained_status: True
+2023-03-24 15:58:17,713 Resume Training Status: True
+2023-03-24 15:58:17,713 Generation Number # 1
+2023-03-24 16:05:09,323 Parents_Trained_status: True
+2023-03-24 16:05:09,323 Resume Training Status: True
+2023-03-24 16:05:09,324 Generation Number # 1
+2023-03-24 16:12:12,275 Parents_Trained_status: True
+2023-03-24 16:12:12,275 Resume Training Status: True
+2023-03-24 16:12:12,275 Generation Number # 1
+2023-03-24 16:14:43,466 Parents_Trained_status: True
+2023-03-24 16:14:43,466 Resume Training Status: True
+2023-03-24 16:14:43,466 Generation Number # 1
+2023-03-24 17:14:59,916 Parents_Trained_status: True
+2023-03-24 17:14:59,916 Resume Training Status: True
+2023-03-24 17:14:59,923 Generation Number # 1
+2023-03-24 17:33:18,121 Epoch [1], Loss: 0.7888, Training Accuracy: 67.30%, Validation Accuracy: 68.91%
+2023-03-24 17:50:00,689 Epoch [2], Loss: 0.6961, Training Accuracy: 69.96%, Validation Accuracy: 71.95%
+2023-03-24 18:06:45,004 Epoch [3], Loss: 0.6143, Training Accuracy: 73.96%, Validation Accuracy: 77.36%
+2023-03-24 18:23:23,645 Epoch [4], Loss: 0.5477, Training Accuracy: 77.73%, Validation Accuracy: 80.03%
+2023-03-24 18:40:02,897 Epoch [5], Loss: 0.4860, Training Accuracy: 80.86%, Validation Accuracy: 82.38%
+2023-03-24 18:56:26,990 Epoch [1], Loss: 0.7794, Training Accuracy: 67.98%, Validation Accuracy: 69.50%
+2023-03-24 19:12:53,750 Epoch [2], Loss: 0.6639, Training Accuracy: 71.96%, Validation Accuracy: 74.42%
+2023-03-24 19:29:18,928 Epoch [3], Loss: 0.5886, Training Accuracy: 75.41%, Validation Accuracy: 77.66%
+2023-03-24 19:45:43,899 Epoch [4], Loss: 0.5292, Training Accuracy: 77.77%, Validation Accuracy: 79.08%
+2023-03-24 20:02:09,801 Epoch [5], Loss: 0.4812, Training Accuracy: 80.33%, Validation Accuracy: 80.56%
+2023-03-24 20:02:09,804 Loss for individual Number 1 17.62376237623762
+2023-03-24 20:02:09,804 Loss for individual Number 2 19.43894389438944
+2023-03-24 20:02:09,804 Gbest is 12.615587846763546
+2023-03-24 20:02:09,805 fITNESS OFFSPRING IS 17.62376237623762
+2023-03-24 20:02:09,813 Training the best found model
+2023-03-24 20:18:55,348 Epoch [1], Loss: 0.7474, Training Accuracy: 69.07%, Validation Accuracy: 73.00%
+2023-03-24 20:35:40,947 Epoch [2], Loss: 0.5777, Training Accuracy: 75.39%, Validation Accuracy: 79.74%
+2023-03-24 20:52:27,967 Epoch [3], Loss: 0.4686, Training Accuracy: 80.91%, Validation Accuracy: 84.19%
+2023-03-24 21:09:13,650 Epoch [4], Loss: 0.3944, Training Accuracy: 84.65%, Validation Accuracy: 85.74%
+2023-03-24 21:25:57,952 Epoch [5], Loss: 0.3370, Training Accuracy: 87.25%, Validation Accuracy: 88.18%
+2023-03-24 21:42:44,111 Epoch [6], Loss: 0.3036, Training Accuracy: 88.74%, Validation Accuracy: 88.25%
+2023-03-24 21:59:33,557 Epoch [7], Loss: 0.2953, Training Accuracy: 88.90%, Validation Accuracy: 88.55%
+2023-03-24 22:16:22,658 Epoch [8], Loss: 0.2856, Training Accuracy: 89.57%, Validation Accuracy: 88.51%
+2023-03-24 22:33:08,631 Epoch [9], Loss: 0.2824, Training Accuracy: 89.50%, Validation Accuracy: 88.91%
+2023-03-24 22:49:54,771 Epoch [10], Loss: 0.2745, Training Accuracy: 90.13%, Validation Accuracy: 88.94%
+2023-03-24 23:06:42,040 Epoch [11], Loss: 0.2780, Training Accuracy: 89.87%, Validation Accuracy: 89.01%
+2023-03-24 23:23:26,367 Epoch [12], Loss: 0.2692, Training Accuracy: 90.24%, Validation Accuracy: 88.61%
+2023-03-24 23:40:11,265 Epoch [13], Loss: 0.2736, Training Accuracy: 89.70%, Validation Accuracy: 89.50%
+2023-03-24 23:58:17,421 Epoch [14], Loss: 0.2823, Training Accuracy: 89.35%, Validation Accuracy: 89.24%
+2023-03-25 00:15:31,806 Epoch [15], Loss: 0.2765, Training Accuracy: 89.81%, Validation Accuracy: 89.11%
+2023-03-25 00:32:18,300 Epoch [16], Loss: 0.2703, Training Accuracy: 89.94%, Validation Accuracy: 89.47%
+2023-03-25 00:49:06,717 Epoch [17], Loss: 0.2742, Training Accuracy: 90.08%, Validation Accuracy: 88.98%
+2023-03-25 01:05:53,252 Epoch [18], Loss: 0.2652, Training Accuracy: 90.31%, Validation Accuracy: 89.31%
+2023-03-25 01:22:41,974 Epoch [19], Loss: 0.2693, Training Accuracy: 90.30%, Validation Accuracy: 89.44%
+2023-03-25 01:39:28,248 Epoch [20], Loss: 0.2727, Training Accuracy: 90.03%, Validation Accuracy: 88.88%
+2023-03-25 01:56:14,516 Epoch [21], Loss: 0.2756, Training Accuracy: 89.85%, Validation Accuracy: 89.90%
+2023-03-25 02:12:59,495 Epoch [22], Loss: 0.2764, Training Accuracy: 89.98%, Validation Accuracy: 89.83%
+2023-03-25 02:29:45,456 Epoch [23], Loss: 0.2726, Training Accuracy: 89.70%, Validation Accuracy: 89.17%
+2023-03-25 02:46:32,556 Epoch [24], Loss: 0.2781, Training Accuracy: 89.78%, Validation Accuracy: 89.01%
+2023-03-25 03:03:19,451 Epoch [25], Loss: 0.2683, Training Accuracy: 90.00%, Validation Accuracy: 89.70%
+2023-03-25 03:20:06,020 Epoch [26], Loss: 0.2707, Training Accuracy: 89.91%, Validation Accuracy: 89.74%
+2023-03-25 03:36:54,912 Epoch [27], Loss: 0.2721, Training Accuracy: 89.89%, Validation Accuracy: 89.44%
+2023-03-25 03:53:41,929 Epoch [28], Loss: 0.2681, Training Accuracy: 89.99%, Validation Accuracy: 89.04%
+2023-03-25 04:10:28,794 Epoch [29], Loss: 0.2673, Training Accuracy: 90.43%, Validation Accuracy: 89.21%
+2023-03-25 04:27:15,492 Epoch [30], Loss: 0.2678, Training Accuracy: 90.08%, Validation Accuracy: 89.67%
+2023-03-25 04:44:02,704 Epoch [31], Loss: 0.2711, Training Accuracy: 90.04%, Validation Accuracy: 89.70%
+2023-03-25 05:00:50,073 Epoch [32], Loss: 0.2710, Training Accuracy: 90.36%, Validation Accuracy: 89.34%
+2023-03-25 05:17:38,349 Epoch [33], Loss: 0.2706, Training Accuracy: 90.22%, Validation Accuracy: 89.41%
+2023-03-25 05:34:26,184 Epoch [34], Loss: 0.2749, Training Accuracy: 90.01%, Validation Accuracy: 88.98%
+2023-03-25 05:51:13,618 Epoch [35], Loss: 0.2744, Training Accuracy: 90.07%, Validation Accuracy: 89.57%
+2023-03-25 06:08:02,798 Epoch [36], Loss: 0.2691, Training Accuracy: 89.79%, Validation Accuracy: 89.11%
+2023-03-25 06:24:50,885 Epoch [37], Loss: 0.2696, Training Accuracy: 89.94%, Validation Accuracy: 89.83%
+2023-03-25 06:42:29,571 Epoch [38], Loss: 0.2714, Training Accuracy: 89.59%, Validation Accuracy: 89.11%
+2023-03-25 07:00:10,685 Epoch [39], Loss: 0.2738, Training Accuracy: 89.94%, Validation Accuracy: 90.07%
+2023-03-25 07:16:58,383 Epoch [40], Loss: 0.2749, Training Accuracy: 89.77%, Validation Accuracy: 88.75%
+2023-03-25 07:33:45,141 Epoch [41], Loss: 0.2736, Training Accuracy: 90.03%, Validation Accuracy: 89.57%
+2023-03-25 07:50:32,625 Epoch [42], Loss: 0.2765, Training Accuracy: 90.07%, Validation Accuracy: 89.34%
+2023-03-25 08:07:21,072 Epoch [43], Loss: 0.2702, Training Accuracy: 90.14%, Validation Accuracy: 89.37%
+2023-03-25 08:24:07,719 Epoch [44], Loss: 0.2703, Training Accuracy: 89.95%, Validation Accuracy: 90.10%
+2023-03-25 08:40:54,069 Epoch [45], Loss: 0.2708, Training Accuracy: 89.95%, Validation Accuracy: 88.65%
+2023-03-25 08:57:40,178 Epoch [46], Loss: 0.2702, Training Accuracy: 89.89%, Validation Accuracy: 89.04%
+2023-03-25 09:14:26,818 Epoch [47], Loss: 0.2768, Training Accuracy: 89.55%, Validation Accuracy: 88.84%
+2023-03-25 09:31:14,525 Epoch [48], Loss: 0.2686, Training Accuracy: 89.84%, Validation Accuracy: 89.57%
+2023-03-25 09:48:00,638 Epoch [49], Loss: 0.2736, Training Accuracy: 90.00%, Validation Accuracy: 89.80%
+2023-03-25 10:04:46,464 Epoch [50], Loss: 0.2654, Training Accuracy: 90.36%, Validation Accuracy: 89.50%
+2023-03-25 10:21:34,334 Epoch [51], Loss: 0.2710, Training Accuracy: 89.65%, Validation Accuracy: 89.44%
+2023-03-25 10:38:21,538 Epoch [52], Loss: 0.2747, Training Accuracy: 89.63%, Validation Accuracy: 89.44%
+2023-03-25 10:55:08,914 Epoch [53], Loss: 0.2725, Training Accuracy: 90.19%, Validation Accuracy: 89.17%
+2023-03-25 11:11:56,288 Epoch [54], Loss: 0.2761, Training Accuracy: 89.57%, Validation Accuracy: 89.11%
+2023-03-25 11:28:43,995 Epoch [55], Loss: 0.2759, Training Accuracy: 89.81%, Validation Accuracy: 89.01%
+2023-03-25 11:45:29,482 Epoch [56], Loss: 0.2707, Training Accuracy: 89.77%, Validation Accuracy: 88.81%
+2023-03-25 12:03:43,234 Epoch [57], Loss: 0.2750, Training Accuracy: 89.83%, Validation Accuracy: 89.01%
+2023-03-25 12:20:51,937 Epoch [58], Loss: 0.2774, Training Accuracy: 89.72%, Validation Accuracy: 89.50%
+2023-03-25 12:37:42,382 Epoch [59], Loss: 0.2708, Training Accuracy: 89.58%, Validation Accuracy: 89.77%
+2023-03-25 12:54:34,004 Epoch [60], Loss: 0.2729, Training Accuracy: 89.84%, Validation Accuracy: 88.98%
+2023-03-25 13:11:24,562 Epoch [61], Loss: 0.2698, Training Accuracy: 89.99%, Validation Accuracy: 89.11%
+2023-03-25 13:28:14,935 Epoch [62], Loss: 0.2694, Training Accuracy: 90.12%, Validation Accuracy: 89.14%
+2023-03-25 13:45:06,733 Epoch [63], Loss: 0.2699, Training Accuracy: 90.03%, Validation Accuracy: 89.14%
+2023-03-25 14:01:57,476 Epoch [64], Loss: 0.2756, Training Accuracy: 89.76%, Validation Accuracy: 88.58%
+2023-03-25 14:18:46,681 Epoch [65], Loss: 0.2696, Training Accuracy: 90.21%, Validation Accuracy: 88.78%
+2023-03-25 14:35:36,887 Epoch [66], Loss: 0.2730, Training Accuracy: 89.82%, Validation Accuracy: 89.64%
+2023-03-25 14:52:29,596 Epoch [67], Loss: 0.2711, Training Accuracy: 89.87%, Validation Accuracy: 88.81%
+2023-03-25 15:09:20,586 Epoch [68], Loss: 0.2833, Training Accuracy: 89.57%, Validation Accuracy: 89.08%
+2023-03-25 15:26:09,473 Epoch [69], Loss: 0.2768, Training Accuracy: 89.39%, Validation Accuracy: 88.71%
+2023-03-25 15:42:59,319 Epoch [70], Loss: 0.2707, Training Accuracy: 90.37%, Validation Accuracy: 89.34%
+2023-03-25 15:59:49,337 Epoch [71], Loss: 0.2745, Training Accuracy: 89.98%, Validation Accuracy: 89.04%
+2023-03-25 16:16:40,594 Epoch [72], Loss: 0.2735, Training Accuracy: 89.83%, Validation Accuracy: 88.51%
+2023-03-25 16:33:30,896 Epoch [73], Loss: 0.2743, Training Accuracy: 90.17%, Validation Accuracy: 89.01%
+2023-03-25 16:51:02,272 Epoch [74], Loss: 0.2753, Training Accuracy: 89.94%, Validation Accuracy: 89.67%
+2023-03-25 17:08:55,509 Epoch [75], Loss: 0.2744, Training Accuracy: 89.99%, Validation Accuracy: 89.47%
+2023-03-25 17:25:42,969 Epoch [76], Loss: 0.2729, Training Accuracy: 89.90%, Validation Accuracy: 89.21%
+2023-03-25 17:42:29,596 Epoch [77], Loss: 0.2725, Training Accuracy: 89.98%, Validation Accuracy: 88.98%
+2023-03-25 17:59:16,035 Epoch [78], Loss: 0.2742, Training Accuracy: 89.99%, Validation Accuracy: 89.60%
+2023-03-25 18:16:03,136 Epoch [79], Loss: 0.2718, Training Accuracy: 89.84%, Validation Accuracy: 88.61%
+2023-03-25 18:32:49,274 Epoch [80], Loss: 0.2739, Training Accuracy: 89.94%, Validation Accuracy: 89.50%
+2023-03-25 18:49:36,199 Epoch [81], Loss: 0.2749, Training Accuracy: 89.90%, Validation Accuracy: 89.01%
+2023-03-25 19:06:23,885 Epoch [82], Loss: 0.2698, Training Accuracy: 90.15%, Validation Accuracy: 89.54%
+2023-03-25 19:23:13,214 Epoch [83], Loss: 0.2712, Training Accuracy: 89.88%, Validation Accuracy: 89.11%
+2023-03-25 19:40:01,114 Epoch [84], Loss: 0.2712, Training Accuracy: 89.79%, Validation Accuracy: 89.37%
+2023-03-25 19:56:49,888 Epoch [85], Loss: 0.2727, Training Accuracy: 89.90%, Validation Accuracy: 88.81%
+2023-03-25 20:13:37,882 Epoch [86], Loss: 0.2748, Training Accuracy: 89.79%, Validation Accuracy: 89.80%
+2023-03-25 20:30:26,084 Epoch [87], Loss: 0.2763, Training Accuracy: 89.85%, Validation Accuracy: 88.38%
+2023-03-25 20:47:13,536 Epoch [88], Loss: 0.2759, Training Accuracy: 90.17%, Validation Accuracy: 88.78%
+2023-03-25 21:04:01,560 Epoch [89], Loss: 0.2755, Training Accuracy: 89.94%, Validation Accuracy: 89.60%
+2023-03-25 21:20:48,698 Epoch [90], Loss: 0.2686, Training Accuracy: 90.17%, Validation Accuracy: 88.94%
+2023-03-25 21:37:38,100 Epoch [91], Loss: 0.2709, Training Accuracy: 90.03%, Validation Accuracy: 89.34%
+2023-03-25 21:54:26,339 Epoch [92], Loss: 0.2677, Training Accuracy: 90.05%, Validation Accuracy: 89.50%
+2023-03-25 22:11:15,262 Epoch [93], Loss: 0.2702, Training Accuracy: 89.99%, Validation Accuracy: 88.84%
+2023-03-25 22:28:03,038 Epoch [94], Loss: 0.2686, Training Accuracy: 89.94%, Validation Accuracy: 89.17%
+2023-03-25 22:44:49,617 Epoch [95], Loss: 0.2697, Training Accuracy: 89.92%, Validation Accuracy: 89.47%
+2023-03-25 23:01:37,223 Epoch [96], Loss: 0.2717, Training Accuracy: 89.99%, Validation Accuracy: 89.04%
+2023-03-25 23:18:25,134 Epoch [97], Loss: 0.2763, Training Accuracy: 89.75%, Validation Accuracy: 89.21%
+2023-03-25 23:35:13,157 Epoch [98], Loss: 0.2721, Training Accuracy: 89.77%, Validation Accuracy: 89.44%
+2023-03-25 23:52:03,581 Epoch [99], Loss: 0.2701, Training Accuracy: 89.98%, Validation Accuracy: 89.57%
+2023-03-26 00:10:33,372 Epoch [100], Loss: 0.2725, Training Accuracy: 89.92%, Validation Accuracy: 89.01%
+2023-03-26 00:27:25,922 Epoch [101], Loss: 0.2764, Training Accuracy: 89.85%, Validation Accuracy: 89.24%
+2023-03-26 00:44:14,480 Epoch [102], Loss: 0.2769, Training Accuracy: 89.64%, Validation Accuracy: 89.34%
+2023-03-26 01:01:04,377 Epoch [103], Loss: 0.2789, Training Accuracy: 89.56%, Validation Accuracy: 89.21%
+2023-03-26 01:17:53,298 Epoch [104], Loss: 0.2717, Training Accuracy: 89.95%, Validation Accuracy: 89.97%
+2023-03-26 01:34:41,694 Epoch [105], Loss: 0.2760, Training Accuracy: 89.66%, Validation Accuracy: 89.27%
+2023-03-26 01:51:31,487 Epoch [106], Loss: 0.2688, Training Accuracy: 90.26%, Validation Accuracy: 89.44%
+2023-03-26 03:08:19,676 Epoch [107], Loss: 0.2735, Training Accuracy: 89.92%, Validation Accuracy: 89.50%
+2023-03-26 03:25:06,988 Epoch [108], Loss: 0.2768, Training Accuracy: 89.70%, Validation Accuracy: 89.41%
+2023-03-26 03:41:54,787 Epoch [109], Loss: 0.2805, Training Accuracy: 90.05%, Validation Accuracy: 89.60%
+2023-03-26 03:58:41,955 Epoch [110], Loss: 0.2720, Training Accuracy: 90.37%, Validation Accuracy: 89.57%
+2023-03-26 04:15:29,942 Epoch [111], Loss: 0.2738, Training Accuracy: 89.74%, Validation Accuracy: 89.41%
+2023-03-26 04:32:18,460 Epoch [112], Loss: 0.2763, Training Accuracy: 89.92%, Validation Accuracy: 89.24%
+2023-03-26 04:49:05,245 Epoch [113], Loss: 0.2679, Training Accuracy: 90.26%, Validation Accuracy: 90.30%
+2023-03-26 05:05:52,781 Epoch [114], Loss: 0.2720, Training Accuracy: 89.74%, Validation Accuracy: 88.94%
+2023-03-26 05:22:40,558 Epoch [115], Loss: 0.2720, Training Accuracy: 90.06%, Validation Accuracy: 89.74%
+2023-03-26 05:39:28,369 Epoch [116], Loss: 0.2732, Training Accuracy: 89.94%, Validation Accuracy: 89.70%
+2023-03-26 05:56:17,124 Epoch [117], Loss: 0.2732, Training Accuracy: 89.63%, Validation Accuracy: 90.13%
+2023-03-26 06:13:05,788 Epoch [118], Loss: 0.2678, Training Accuracy: 90.13%, Validation Accuracy: 89.08%
+2023-03-26 06:29:53,304 Epoch [119], Loss: 0.2742, Training Accuracy: 89.87%, Validation Accuracy: 88.88%
+2023-03-26 06:46:41,427 Epoch [120], Loss: 0.2734, Training Accuracy: 89.94%, Validation Accuracy: 89.57%
+2023-03-26 07:03:30,198 Epoch [121], Loss: 0.2696, Training Accuracy: 90.32%, Validation Accuracy: 89.24%
+2023-03-26 07:20:18,411 Epoch [122], Loss: 0.2741, Training Accuracy: 89.90%, Validation Accuracy: 89.60%
+2023-03-26 07:37:07,607 Epoch [123], Loss: 0.2758, Training Accuracy: 89.63%, Validation Accuracy: 88.65%
+2023-03-26 07:53:56,195 Epoch [124], Loss: 0.2740, Training Accuracy: 89.93%, Validation Accuracy: 89.04%
+2023-03-26 08:10:44,746 Epoch [125], Loss: 0.2714, Training Accuracy: 90.02%, Validation Accuracy: 89.77%
+2023-03-26 08:27:31,482 Epoch [126], Loss: 0.2748, Training Accuracy: 89.78%, Validation Accuracy: 89.83%
+2023-03-26 08:44:20,314 Epoch [127], Loss: 0.2703, Training Accuracy: 89.90%, Validation Accuracy: 89.74%
+2023-03-26 09:01:07,563 Epoch [128], Loss: 0.2717, Training Accuracy: 89.91%, Validation Accuracy: 89.41%
+2023-03-26 09:17:55,180 Epoch [129], Loss: 0.2730, Training Accuracy: 89.99%, Validation Accuracy: 89.41%
+2023-03-26 09:34:50,924 Epoch [130], Loss: 0.2790, Training Accuracy: 89.90%, Validation Accuracy: 88.61%
+2023-03-26 09:53:12,207 Epoch [131], Loss: 0.2786, Training Accuracy: 89.89%, Validation Accuracy: 89.17%
+2023-03-26 10:09:59,108 Epoch [132], Loss: 0.2711, Training Accuracy: 89.84%, Validation Accuracy: 89.47%
+2023-03-26 10:26:46,539 Epoch [133], Loss: 0.2670, Training Accuracy: 90.17%, Validation Accuracy: 89.74%
+2023-03-26 10:43:35,820 Epoch [134], Loss: 0.2723, Training Accuracy: 90.05%, Validation Accuracy: 88.81%
+2023-03-26 11:00:23,256 Epoch [135], Loss: 0.2750, Training Accuracy: 90.03%, Validation Accuracy: 89.14%
+2023-03-26 11:17:11,620 Epoch [136], Loss: 0.2683, Training Accuracy: 90.18%, Validation Accuracy: 88.98%
+2023-03-26 11:33:58,946 Epoch [137], Loss: 0.2670, Training Accuracy: 89.87%, Validation Accuracy: 89.80%
+2023-03-26 11:50:47,455 Epoch [138], Loss: 0.2699, Training Accuracy: 90.08%, Validation Accuracy: 89.57%
+2023-03-26 12:07:37,388 Epoch [139], Loss: 0.2725, Training Accuracy: 90.22%, Validation Accuracy: 89.64%
+2023-03-26 12:24:25,710 Epoch [140], Loss: 0.2754, Training Accuracy: 89.68%, Validation Accuracy: 89.01%
+2023-03-26 12:41:13,129 Epoch [141], Loss: 0.2731, Training Accuracy: 89.85%, Validation Accuracy: 89.54%
+2023-03-26 12:58:09,739 Epoch [142], Loss: 0.2700, Training Accuracy: 90.03%, Validation Accuracy: 89.80%
+2023-03-26 13:16:34,896 Epoch [143], Loss: 0.2701, Training Accuracy: 89.99%, Validation Accuracy: 88.91%
+2023-03-26 13:33:25,689 Epoch [144], Loss: 0.2726, Training Accuracy: 90.07%, Validation Accuracy: 89.08%
+2023-03-26 13:50:14,862 Epoch [145], Loss: 0.2770, Training Accuracy: 89.88%, Validation Accuracy: 89.14%
+2023-03-26 14:07:07,137 Epoch [146], Loss: 0.2684, Training Accuracy: 90.24%, Validation Accuracy: 88.61%
+2023-03-26 14:23:58,382 Epoch [147], Loss: 0.2746, Training Accuracy: 89.73%, Validation Accuracy: 88.84%
+2023-03-26 14:40:48,874 Epoch [148], Loss: 0.2743, Training Accuracy: 89.95%, Validation Accuracy: 89.97%
+2023-03-26 14:57:38,509 Epoch [149], Loss: 0.2786, Training Accuracy: 89.72%, Validation Accuracy: 88.94%
+2023-03-26 15:14:29,866 Epoch [150], Loss: 0.2682, Training Accuracy: 90.32%, Validation Accuracy: 89.50%
+2023-03-26 15:31:21,163 Epoch [151], Loss: 0.2711, Training Accuracy: 90.15%, Validation Accuracy: 89.11%
+2023-03-26 15:48:10,020 Epoch [152], Loss: 0.2684, Training Accuracy: 90.09%, Validation Accuracy: 88.81%
+2023-03-26 16:05:00,571 Epoch [153], Loss: 0.2733, Training Accuracy: 89.71%, Validation Accuracy: 89.80%
+2023-03-26 16:21:53,067 Epoch [154], Loss: 0.2782, Training Accuracy: 89.47%, Validation Accuracy: 88.88%
+2023-03-26 16:38:43,744 Epoch [155], Loss: 0.2714, Training Accuracy: 90.00%, Validation Accuracy: 88.98%
+2023-03-26 16:55:34,599 Epoch [156], Loss: 0.2729, Training Accuracy: 89.70%, Validation Accuracy: 90.03%
+2023-03-26 17:12:24,936 Epoch [157], Loss: 0.2711, Training Accuracy: 89.95%, Validation Accuracy: 88.98%
+2023-03-26 17:29:14,609 Epoch [158], Loss: 0.2712, Training Accuracy: 89.86%, Validation Accuracy: 89.01%
+2023-03-26 17:46:21,838 Epoch [159], Loss: 0.2757, Training Accuracy: 90.02%, Validation Accuracy: 89.60%
+2023-03-26 18:04:28,317 Epoch [160], Loss: 0.2682, Training Accuracy: 90.03%, Validation Accuracy: 88.12%
+2023-03-26 18:21:19,393 Epoch [161], Loss: 0.2774, Training Accuracy: 89.83%, Validation Accuracy: 89.04%
+2023-03-26 18:38:15,263 Epoch [162], Loss: 0.2674, Training Accuracy: 90.03%, Validation Accuracy: 89.34%
+2023-03-26 18:55:03,308 Epoch [163], Loss: 0.2702, Training Accuracy: 90.09%, Validation Accuracy: 89.64%
+2023-03-26 19:11:49,651 Epoch [164], Loss: 0.2696, Training Accuracy: 90.09%, Validation Accuracy: 90.03%
+2023-03-26 19:28:36,268 Epoch [165], Loss: 0.2700, Training Accuracy: 90.09%, Validation Accuracy: 89.31%
+2023-03-26 19:45:22,698 Epoch [166], Loss: 0.2716, Training Accuracy: 89.88%, Validation Accuracy: 89.67%
+2023-03-26 20:02:10,150 Epoch [167], Loss: 0.2734, Training Accuracy: 89.89%, Validation Accuracy: 89.60%
+2023-03-26 20:18:57,278 Epoch [168], Loss: 0.2694, Training Accuracy: 90.06%, Validation Accuracy: 89.24%
+2023-03-26 20:35:43,663 Epoch [169], Loss: 0.2691, Training Accuracy: 90.09%, Validation Accuracy: 89.24%
+2023-03-26 20:52:32,834 Epoch [170], Loss: 0.2771, Training Accuracy: 89.70%, Validation Accuracy: 89.21%
+2023-03-26 21:09:19,819 Epoch [171], Loss: 0.2671, Training Accuracy: 90.22%, Validation Accuracy: 88.88%
+2023-03-26 21:26:06,106 Epoch [172], Loss: 0.2708, Training Accuracy: 90.15%, Validation Accuracy: 89.17%
+2023-03-26 21:42:53,390 Epoch [173], Loss: 0.2672, Training Accuracy: 90.12%, Validation Accuracy: 89.34%
+2023-03-26 21:59:38,562 Epoch [174], Loss: 0.2744, Training Accuracy: 89.78%, Validation Accuracy: 89.21%
+2023-03-26 22:16:23,265 Epoch [175], Loss: 0.2680, Training Accuracy: 89.77%, Validation Accuracy: 89.27%
+2023-03-26 22:33:07,077 Epoch [176], Loss: 0.2781, Training Accuracy: 89.74%, Validation Accuracy: 88.94%
+2023-03-26 22:49:51,480 Epoch [177], Loss: 0.2690, Training Accuracy: 90.08%, Validation Accuracy: 88.78%
+2023-03-26 23:06:37,359 Epoch [178], Loss: 0.2753, Training Accuracy: 89.56%, Validation Accuracy: 88.55%
+2023-03-26 23:23:23,471 Epoch [179], Loss: 0.2704, Training Accuracy: 89.95%, Validation Accuracy: 89.87%
+2023-03-26 23:40:07,867 Epoch [180], Loss: 0.2730, Training Accuracy: 89.99%, Validation Accuracy: 88.88%
+2023-03-26 23:56:52,141 Epoch [181], Loss: 0.2793, Training Accuracy: 89.34%, Validation Accuracy: 89.41%
+2023-03-27 00:13:40,549 Epoch [182], Loss: 0.2737, Training Accuracy: 89.97%, Validation Accuracy: 90.10%
+2023-03-27 00:30:24,628 Epoch [183], Loss: 0.2692, Training Accuracy: 90.08%, Validation Accuracy: 89.90%
+2023-03-27 00:47:09,006 Epoch [184], Loss: 0.2721, Training Accuracy: 89.87%, Validation Accuracy: 88.94%
+2023-03-27 01:04:22,622 Epoch [185], Loss: 0.2783, Training Accuracy: 89.83%, Validation Accuracy: 89.97%
+2023-03-27 01:22:25,402 Epoch [186], Loss: 0.2694, Training Accuracy: 90.45%, Validation Accuracy: 89.50%
+2023-03-27 01:39:14,866 Epoch [187], Loss: 0.2750, Training Accuracy: 89.57%, Validation Accuracy: 89.14%
+2023-03-27 01:56:02,162 Epoch [188], Loss: 0.2646, Training Accuracy: 90.50%, Validation Accuracy: 89.90%
+2023-03-27 02:12:50,398 Epoch [189], Loss: 0.2612, Training Accuracy: 90.43%, Validation Accuracy: 88.81%
+2023-03-27 02:29:39,391 Epoch [190], Loss: 0.2717, Training Accuracy: 89.76%, Validation Accuracy: 89.14%
+2023-03-27 02:46:27,613 Epoch [191], Loss: 0.2723, Training Accuracy: 89.94%, Validation Accuracy: 89.21%
+2023-03-27 03:03:16,890 Epoch [192], Loss: 0.2679, Training Accuracy: 90.03%, Validation Accuracy: 89.50%
+2023-03-27 03:20:05,587 Epoch [193], Loss: 0.2690, Training Accuracy: 90.07%, Validation Accuracy: 88.71%
+2023-03-27 03:36:57,474 Epoch [194], Loss: 0.2761, Training Accuracy: 89.70%, Validation Accuracy: 89.01%
+2023-03-27 03:53:45,651 Epoch [195], Loss: 0.2708, Training Accuracy: 90.31%, Validation Accuracy: 89.57%
+2023-03-27 04:10:34,356 Epoch [196], Loss: 0.2710, Training Accuracy: 90.05%, Validation Accuracy: 88.94%
+2023-03-27 04:27:22,858 Epoch [197], Loss: 0.2719, Training Accuracy: 89.91%, Validation Accuracy: 88.81%
+2023-03-27 04:44:11,033 Epoch [198], Loss: 0.2658, Training Accuracy: 90.20%, Validation Accuracy: 88.51%
+2023-03-27 05:01:00,035 Epoch [199], Loss: 0.2672, Training Accuracy: 90.31%, Validation Accuracy: 89.54%
+2023-03-27 05:17:50,354 Epoch [200], Loss: 0.2724, Training Accuracy: 89.90%, Validation Accuracy: 89.34%
+2023-03-27 05:34:38,761 Epoch [201], Loss: 0.2752, Training Accuracy: 89.95%, Validation Accuracy: 89.70%
+2023-03-27 05:51:29,761 Epoch [202], Loss: 0.2720, Training Accuracy: 90.12%, Validation Accuracy: 89.93%
+2023-03-27 06:08:18,532 Epoch [203], Loss: 0.2735, Training Accuracy: 89.93%, Validation Accuracy: 89.77%
+2023-03-27 06:25:08,221 Epoch [204], Loss: 0.2692, Training Accuracy: 89.82%, Validation Accuracy: 89.41%
+2023-03-27 06:41:56,970 Epoch [205], Loss: 0.2667, Training Accuracy: 90.05%, Validation Accuracy: 89.64%
+2023-03-27 06:58:45,931 Epoch [206], Loss: 0.2693, Training Accuracy: 90.02%, Validation Accuracy: 89.01%
+2023-03-27 07:15:35,180 Epoch [207], Loss: 0.2719, Training Accuracy: 89.99%, Validation Accuracy: 88.91%
+2023-03-27 07:32:24,156 Epoch [208], Loss: 0.2689, Training Accuracy: 90.08%, Validation Accuracy: 89.41%
+2023-03-27 07:49:13,347 Epoch [209], Loss: 0.2711, Training Accuracy: 90.05%, Validation Accuracy: 89.60%
+2023-03-27 08:06:03,181 Epoch [210], Loss: 0.2790, Training Accuracy: 89.58%, Validation Accuracy: 89.44%
+2023-03-27 08:22:53,989 Epoch [211], Loss: 0.2701, Training Accuracy: 89.90%, Validation Accuracy: 88.51%
+2023-03-27 08:39:42,880 Epoch [212], Loss: 0.2696, Training Accuracy: 90.37%, Validation Accuracy: 89.31%
+2023-03-27 08:56:30,597 Epoch [213], Loss: 0.2720, Training Accuracy: 90.17%, Validation Accuracy: 88.51%
+2023-03-27 09:13:19,666 Epoch [214], Loss: 0.2672, Training Accuracy: 90.27%, Validation Accuracy: 89.57%
+2023-03-27 09:30:08,310 Epoch [215], Loss: 0.2708, Training Accuracy: 90.10%, Validation Accuracy: 89.14%
+2023-03-27 09:46:55,272 Epoch [216], Loss: 0.2743, Training Accuracy: 89.95%, Validation Accuracy: 89.60%
+2023-03-27 10:03:43,011 Epoch [217], Loss: 0.2718, Training Accuracy: 89.81%, Validation Accuracy: 89.47%
+2023-03-29 11:09:33,617 Parents_Trained_status: True
+2023-03-29 11:09:33,617 Resume Training Status: True
+2023-03-29 11:09:33,622 Generation Number # 1
+2023-03-29 11:10:27,625 Parents_Trained_status: True
+2023-03-29 11:10:27,625 Resume Training Status: True
+2023-03-29 11:10:27,626 Generation Number # 1
+2023-03-29 11:20:03,496 Parents_Trained_status: False
+2023-03-29 11:20:03,497 Resume Training Status: False
+2023-03-29 11:20:03,840 Parents Individual Number # 0
+2023-03-29 11:33:03,033 Epoch [1], Loss: 0.6161, Training Accuracy: 73.84%, Validation Accuracy: 82.64%
+2023-03-29 11:44:43,301 Epoch [2], Loss: 0.3864, Training Accuracy: 84.78%, Validation Accuracy: 81.91%
+2023-03-29 11:56:09,598 Epoch [3], Loss: 0.2713, Training Accuracy: 89.91%, Validation Accuracy: 90.10%
+2023-03-29 12:07:46,464 Epoch [4], Loss: 0.2416, Training Accuracy: 91.36%, Validation Accuracy: 91.25%
+2023-03-29 12:07:46,464 loss 8.745874587458744
+2023-03-29 12:07:46,526 Parents Individual Number # 1
+2023-03-29 12:23:28,099 Epoch [1], Loss: 0.6395, Training Accuracy: 71.52%, Validation Accuracy: 77.23%
+2023-03-29 12:39:22,147 Epoch [2], Loss: 0.4442, Training Accuracy: 80.87%, Validation Accuracy: 85.08%
+2023-03-29 12:55:08,058 Epoch [3], Loss: 0.2772, Training Accuracy: 89.75%, Validation Accuracy: 90.76%
+2023-03-29 13:10:58,774 Epoch [4], Loss: 0.2412, Training Accuracy: 91.32%, Validation Accuracy: 90.40%
+2023-03-29 13:10:58,778 loss 9.60396039603961
+2023-03-29 13:10:58,782 Parents Individual Number # 2
+2023-03-29 13:26:42,587 Epoch [1], Loss: 0.7237, Training Accuracy: 69.03%, Validation Accuracy: 69.64%
+2023-03-29 13:42:27,944 Epoch [2], Loss: 0.5849, Training Accuracy: 73.68%, Validation Accuracy: 75.35%
+2023-03-29 14:01:04,505 Parents_Trained_status: False
+2023-03-29 14:01:04,505 Resume Training Status: False
+2023-03-29 14:01:04,892 Parents Individual Number # 0
+2023-03-29 14:02:20,008 Parents_Trained_status: False
+2023-03-29 14:02:20,008 Resume Training Status: False
+2023-03-29 14:02:20,400 Parents Individual Number # 0
+2023-03-29 14:08:32,426 Parents_Trained_status: False
+2023-03-29 14:08:32,427 Resume Training Status: False
+2023-03-29 14:08:32,813 Parents Individual Number # 0
+2023-03-29 14:27:59,710 Parents_Trained_status: False
+2023-03-29 14:27:59,710 Resume Training Status: False
+2023-03-29 14:28:00,070 Parents Individual Number # 0
+2023-03-29 14:28:42,101 Parents_Trained_status: False
+2023-03-29 14:28:42,102 Resume Training Status: False
+2023-03-29 14:28:42,423 Parents Individual Number # 0
+2023-03-29 14:34:18,175 Parents_Trained_status: False
+2023-03-29 14:34:18,175 Resume Training Status: False
+2023-03-29 14:34:18,513 Parents Individual Number # 0
+2023-03-29 14:35:41,665 Parents_Trained_status: False
+2023-03-29 14:35:41,665 Resume Training Status: False
+2023-03-29 14:35:42,018 Parents Individual Number # 0
+2023-03-29 14:37:32,729 Parents_Trained_status: False
+2023-03-29 14:37:32,729 Resume Training Status: False
+2023-03-29 14:37:33,261 Parents Individual Number # 0
+2023-03-29 14:44:33,271 Parents_Trained_status: False
+2023-03-29 14:44:33,271 Resume Training Status: False
+2023-03-29 14:44:33,619 Parents Individual Number # 0
+2023-03-29 14:45:55,229 Parents_Trained_status: False
+2023-03-29 14:45:55,229 Resume Training Status: False
+2023-03-29 14:45:55,745 Parents Individual Number # 0
+2023-03-29 14:48:42,057 Parents_Trained_status: False
+2023-03-29 14:48:42,058 Resume Training Status: False
+2023-03-29 14:48:42,428 Parents Individual Number # 0
+2023-03-29 15:01:31,815 Parents_Trained_status: False
+2023-03-29 15:01:31,815 Resume Training Status: False
+2023-03-29 15:01:32,162 Parents Individual Number # 0
+2023-03-29 15:02:49,473 Parents_Trained_status: False
+2023-03-29 15:02:49,473 Resume Training Status: False
+2023-03-29 15:02:49,795 Parents Individual Number # 0
+2023-03-31 10:23:04,372 Parents_Trained_status: False
+2023-03-31 10:23:04,372 Resume Training Status: False
+2023-03-31 10:23:04,724 Parents Individual Number # 0
+2023-03-31 10:30:19,385 Parents_Trained_status: False
+2023-03-31 10:30:19,386 Resume Training Status: False
+2023-03-31 10:30:19,727 Parents Individual Number # 0
+2023-03-31 10:45:49,863 Parents_Trained_status: False
+2023-03-31 10:45:49,864 Resume Training Status: False
+2023-03-31 10:45:50,227 Parents Individual Number # 0
+2023-03-31 10:47:09,695 Parents_Trained_status: False
+2023-03-31 10:47:09,695 Resume Training Status: False
+2023-03-31 10:47:10,076 Parents Individual Number # 0
+2023-03-31 11:32:46,900 Parents_Trained_status: False
+2023-03-31 11:32:46,900 Resume Training Status: False
+2023-03-31 11:32:47,196 Parents Individual Number # 0
+2023-03-31 11:38:59,347 Parents_Trained_status: False
+2023-03-31 11:38:59,348 Resume Training Status: False
+2023-03-31 11:38:59,658 Parents Individual Number # 0
+2023-03-31 13:47:07,384 Parents_Trained_status: False
+2023-03-31 13:47:07,384 Resume Training Status: False
+2023-03-31 13:47:07,709 Parents Individual Number # 0
+2023-04-24 16:54:42,798 Parents_Trained_status: False
+2023-04-24 16:54:42,799 Resume Training Status: False
+2023-04-24 16:54:43,362 Parents Individual Number # 0
+2023-04-24 16:58:00,570 Parents_Trained_status: False
+2023-04-24 16:58:00,570 Resume Training Status: False
+2023-04-24 16:58:00,871 Parents Individual Number # 0
+2023-04-24 17:02:22,861 Parents_Trained_status: False
+2023-04-24 17:02:22,861 Resume Training Status: False
+2023-04-24 17:02:23,163 Parents Individual Number # 0
+2023-04-24 17:15:11,727 Parents_Trained_status: False
+2023-04-24 17:15:11,727 Resume Training Status: False
+2023-04-24 17:15:12,035 Parents Individual Number # 0
+2023-04-24 17:22:36,867 Parents_Trained_status: False
+2023-04-24 17:22:36,867 Resume Training Status: False
+2023-04-24 17:22:37,169 Parents Individual Number # 0
+2023-04-28 14:21:26,742 Parents_Trained_status: False
+2023-04-28 14:21:26,742 Resume Training Status: False
+2023-04-28 14:21:27,090 Parents Individual Number # 0
+2023-05-22 11:39:58,795 Parents_Trained_status: False
+2023-05-22 11:39:58,796 Resume Training Status: False
+2023-05-22 11:39:59,217 Parents Individual Number # 0
+2023-05-22 16:55:25,753 Parents_Trained_status: False
+2023-05-22 16:55:25,755 Resume Training Status: False
+2023-05-22 16:55:26,063 Parents Individual Number # 0
+2023-05-23 09:41:24,323 Parents_Trained_status: False
+2023-05-23 09:41:24,323 Resume Training Status: False
+2023-05-23 09:41:24,902 Parents Individual Number # 0
+2023-05-23 09:42:07,260 Parents_Trained_status: False
+2023-05-23 09:42:07,260 Resume Training Status: False
+2023-05-23 09:42:07,578 Parents Individual Number # 0
+2023-05-23 10:01:38,603 Epoch [1], Loss: 0.7275, Training Accuracy: 68.09%, Validation Accuracy: 71.02%
+2023-05-26 09:04:23,192 Parents_Trained_status: False
+2023-05-26 09:04:23,193 Resume Training Status: False
+2023-05-26 09:04:23,592 Parents Individual Number # 0
+2023-05-26 09:35:30,401 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-26 09:44:09,392 Parents_Trained_status: False
+2023-05-26 09:44:09,392 Resume Training Status: False
+2023-05-26 09:44:09,645 Parents Individual Number # 0
+2023-05-26 09:57:43,797 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-26 10:03:10,271 Parents_Trained_status: False
+2023-05-26 10:03:10,272 Resume Training Status: False
+2023-05-26 10:03:10,669 Parents Individual Number # 0
+2023-05-26 10:05:05,694 Parents_Trained_status: False
+2023-05-26 10:05:05,694 Resume Training Status: False
+2023-05-26 10:05:06,099 Parents Individual Number # 0
+2023-05-26 10:08:02,349 Parents_Trained_status: False
+2023-05-26 10:08:02,349 Resume Training Status: False
+2023-05-26 10:08:02,726 Parents Individual Number # 0
+2023-05-26 10:09:08,277 Parents_Trained_status: False
+2023-05-26 10:09:08,278 Resume Training Status: False
+2023-05-26 10:09:08,650 Parents Individual Number # 0
+2023-05-26 10:10:41,282 Parents_Trained_status: False
+2023-05-26 10:10:41,282 Resume Training Status: False
+2023-05-26 10:10:41,704 Parents Individual Number # 0
+2023-05-26 10:12:01,297 Parents_Trained_status: False
+2023-05-26 10:12:01,297 Resume Training Status: False
+2023-05-26 10:12:01,707 Parents Individual Number # 0
+2023-05-26 10:34:21,646 Accuracy after FGSM adverserial attack 64.41%
+2023-05-26 10:43:23,564 Parents_Trained_status: False
+2023-05-26 10:43:23,564 Resume Training Status: False
+2023-05-26 10:43:23,805 Parents Individual Number # 0
+2023-05-26 10:55:14,905 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-26 10:58:24,123 Accuracy after FGSM adverserial attack 0.89%
+2023-05-26 11:16:56,861 Accuracy after BIM adverserial attack 0.00%
+2023-05-26 11:25:11,187 Accuracy after PGD adverserial attack 5.08%
+2023-05-26 20:34:08,766 Parents_Trained_status: False
+2023-05-26 20:34:08,766 Resume Training Status: False
+2023-05-26 20:34:09,033 Parents Individual Number # 0
+2023-05-26 20:48:07,704 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-26 20:52:21,337 Accuracy after FGSM adverserial attack 0.03%
+2023-05-26 21:14:59,286 Accuracy after BIM adverserial attack 0.00%
+2023-05-26 21:25:00,122 Accuracy after PGD adverserial attack 0.00%
+2023-05-26 21:28:51,154 Accuracy after FFGSM adverserial attack 0.03%
+2023-05-26 21:30:23,768 Epoch [1], Loss: 0.6724, Training Accuracy: 70.10%, Validation Accuracy: 4.85%
+2023-05-26 21:42:24,041 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-26 21:46:18,004 Accuracy after FGSM adverserial attack 7.99%
+2023-05-26 22:08:33,877 Accuracy after BIM adverserial attack 0.10%
+2023-05-26 22:18:35,614 Accuracy after PGD adverserial attack 45.15%
+2023-05-26 22:22:26,286 Accuracy after FFGSM adverserial attack 8.05%
+2023-05-26 22:23:58,954 Epoch [2], Loss: 0.5705, Training Accuracy: 75.33%, Validation Accuracy: 84.79%
+2023-05-26 22:36:00,694 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-26 22:39:54,390 Accuracy after FGSM adverserial attack 0.53%
+2023-05-26 23:02:08,513 Accuracy after BIM adverserial attack 0.00%
+2023-05-26 23:12:06,813 Accuracy after PGD adverserial attack 44.13%
+2023-05-26 23:15:57,699 Accuracy after FFGSM adverserial attack 0.50%
+2023-05-26 23:17:29,982 Epoch [3], Loss: 0.2977, Training Accuracy: 88.79%, Validation Accuracy: 90.23%
+2023-05-26 23:29:29,399 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-26 23:33:22,461 Accuracy after FGSM adverserial attack 0.07%
+2023-05-26 23:55:35,069 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 00:05:33,454 Accuracy after PGD adverserial attack 25.12%
+2023-05-27 00:09:24,028 Accuracy after FFGSM adverserial attack 0.10%
+2023-05-27 00:10:56,009 Epoch [4], Loss: 0.2382, Training Accuracy: 91.07%, Validation Accuracy: 90.73%
+2023-05-27 00:10:56,014 loss 9.273927392739267
+2023-05-27 00:10:56,019 Parents Individual Number # 1
+2023-05-27 00:24:29,725 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 00:28:29,623 Accuracy after FGSM adverserial attack 0.00%
+2023-05-27 00:52:02,544 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 01:02:29,430 Accuracy after PGD adverserial attack 0.00%
+2023-05-27 01:06:23,502 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-27 01:07:54,445 Epoch [1], Loss: 0.6655, Training Accuracy: 71.18%, Validation Accuracy: 0.07%
+2023-05-27 01:21:08,365 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 01:25:08,671 Accuracy after FGSM adverserial attack 33.50%
+2023-05-27 01:48:42,157 Accuracy after BIM adverserial attack 11.02%
+2023-05-27 01:59:08,704 Accuracy after PGD adverserial attack 66.27%
+2023-05-27 02:03:02,694 Accuracy after FFGSM adverserial attack 33.07%
+2023-05-27 02:04:33,697 Epoch [2], Loss: 0.5411, Training Accuracy: 77.11%, Validation Accuracy: 81.29%
+2023-05-27 02:17:47,587 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 02:21:47,361 Accuracy after FGSM adverserial attack 10.10%
+2023-05-27 02:45:23,741 Accuracy after BIM adverserial attack 0.03%
+2023-05-27 02:55:50,088 Accuracy after PGD adverserial attack 25.08%
+2023-05-27 02:59:44,115 Accuracy after FFGSM adverserial attack 9.93%
+2023-05-27 03:01:15,120 Epoch [3], Loss: 0.2551, Training Accuracy: 90.83%, Validation Accuracy: 92.57%
+2023-05-27 03:14:29,045 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 03:18:28,698 Accuracy after FGSM adverserial attack 3.99%
+2023-05-27 03:42:02,005 Accuracy after BIM adverserial attack 0.07%
+2023-05-27 03:52:31,180 Accuracy after PGD adverserial attack 44.29%
+2023-05-27 03:56:37,964 Accuracy after FFGSM adverserial attack 3.83%
+2023-05-27 03:58:09,004 Epoch [4], Loss: 0.1900, Training Accuracy: 93.47%, Validation Accuracy: 93.00%
+2023-05-27 03:58:09,009 loss 6.9966996699670005
+2023-05-27 03:58:09,009 Parents Individual Number # 2
+2023-05-27 04:17:14,145 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 04:22:39,403 Accuracy after FGSM adverserial attack 0.00%
+2023-05-27 04:55:02,020 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 05:09:24,070 Accuracy after PGD adverserial attack 0.00%
+2023-05-27 05:14:46,408 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-27 05:16:51,430 Epoch [1], Loss: 0.7062, Training Accuracy: 69.38%, Validation Accuracy: 0.00%
+2023-05-27 05:34:18,722 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 05:39:43,612 Accuracy after FGSM adverserial attack 52.11%
+2023-05-27 06:12:08,128 Accuracy after BIM adverserial attack 21.19%
+2023-05-27 06:26:44,540 Accuracy after PGD adverserial attack 66.30%
+2023-05-27 06:32:06,572 Accuracy after FFGSM adverserial attack 52.24%
+2023-05-27 06:34:11,626 Epoch [2], Loss: 0.5861, Training Accuracy: 73.56%, Validation Accuracy: 79.04%
+2023-05-27 06:52:42,096 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 06:58:06,960 Accuracy after FGSM adverserial attack 23.07%
+2023-05-27 07:30:28,712 Accuracy after BIM adverserial attack 0.79%
+2023-05-27 07:44:50,278 Accuracy after PGD adverserial attack 44.98%
+2023-05-27 07:50:12,266 Accuracy after FFGSM adverserial attack 23.47%
+2023-05-27 07:52:17,239 Epoch [3], Loss: 0.3486, Training Accuracy: 85.49%, Validation Accuracy: 88.42%
+2023-05-27 08:09:45,203 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 08:15:10,069 Accuracy after FGSM adverserial attack 23.40%
+2023-05-27 08:47:43,311 Accuracy after BIM adverserial attack 0.69%
+2023-05-27 09:02:06,274 Accuracy after PGD adverserial attack 25.12%
+2023-05-27 09:07:28,795 Accuracy after FFGSM adverserial attack 23.63%
+2023-05-27 09:09:33,866 Epoch [4], Loss: 0.2849, Training Accuracy: 88.87%, Validation Accuracy: 88.94%
+2023-05-27 09:09:33,869 loss 11.056105610561062
+2023-05-27 09:09:33,869 Parents Individual Number # 3
+2023-05-27 09:24:53,049 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 09:29:29,156 Accuracy after FGSM adverserial attack 0.00%
+2023-05-27 09:56:36,721 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 10:08:40,755 Accuracy after PGD adverserial attack 0.00%
+2023-05-27 10:13:14,262 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-27 10:15:02,109 Epoch [1], Loss: 0.6811, Training Accuracy: 70.30%, Validation Accuracy: 0.53%
+2023-05-27 10:29:44,855 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 10:34:20,069 Accuracy after FGSM adverserial attack 30.83%
+2023-05-27 11:01:26,346 Accuracy after BIM adverserial attack 1.25%
+2023-05-27 11:13:29,637 Accuracy after PGD adverserial attack 37.52%
+2023-05-27 11:18:02,286 Accuracy after FFGSM adverserial attack 30.89%
+2023-05-27 11:19:49,981 Epoch [2], Loss: 0.4810, Training Accuracy: 80.04%, Validation Accuracy: 84.06%
+2023-05-27 11:34:31,364 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 11:39:07,141 Accuracy after FGSM adverserial attack 16.63%
+2023-05-27 12:06:12,820 Accuracy after BIM adverserial attack 0.56%
+2023-05-27 12:18:15,956 Accuracy after PGD adverserial attack 45.87%
+2023-05-27 12:22:48,463 Accuracy after FFGSM adverserial attack 16.34%
+2023-05-27 12:24:36,059 Epoch [3], Loss: 0.2581, Training Accuracy: 90.17%, Validation Accuracy: 89.21%
+2023-05-27 12:39:18,323 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 12:43:54,143 Accuracy after FGSM adverserial attack 12.21%
+2023-05-27 13:10:59,044 Accuracy after BIM adverserial attack 0.92%
+2023-05-27 13:23:02,244 Accuracy after PGD adverserial attack 25.12%
+2023-05-27 13:27:35,311 Accuracy after FFGSM adverserial attack 12.41%
+2023-05-27 13:29:23,021 Epoch [4], Loss: 0.2177, Training Accuracy: 91.97%, Validation Accuracy: 91.19%
+2023-05-27 13:29:23,021 loss 8.811881188118818
+2023-05-27 13:29:23,021 Parents Individual Number # 4
+2023-05-27 13:43:02,358 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 13:46:29,969 Accuracy after FGSM adverserial attack 0.00%
+2023-05-27 14:07:50,707 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 14:17:16,299 Accuracy after PGD adverserial attack 0.00%
+2023-05-27 14:20:49,742 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-27 14:22:05,051 Epoch [1], Loss: 0.6904, Training Accuracy: 70.16%, Validation Accuracy: 0.00%
+2023-05-27 14:36:09,377 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 14:39:37,332 Accuracy after FGSM adverserial attack 60.46%
+2023-05-27 15:01:19,937 Accuracy after BIM adverserial attack 12.64%
+2023-05-27 15:10:44,836 Accuracy after PGD adverserial attack 46.01%
+2023-05-27 15:14:11,251 Accuracy after FFGSM adverserial attack 60.26%
+2023-05-27 15:15:20,416 Epoch [2], Loss: 0.5961, Training Accuracy: 74.87%, Validation Accuracy: 79.60%
+2023-05-27 15:28:25,316 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 15:31:54,286 Accuracy after FGSM adverserial attack 28.22%
+2023-05-27 15:53:17,381 Accuracy after BIM adverserial attack 0.40%
+2023-05-27 16:02:43,743 Accuracy after PGD adverserial attack 46.04%
+2023-05-27 16:06:10,145 Accuracy after FFGSM adverserial attack 28.58%
+2023-05-27 16:07:19,297 Epoch [3], Loss: 0.2706, Training Accuracy: 89.67%, Validation Accuracy: 91.29%
+2023-05-27 16:20:24,415 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 16:23:53,630 Accuracy after FGSM adverserial attack 29.41%
+2023-05-27 16:45:20,234 Accuracy after BIM adverserial attack 0.53%
+2023-05-27 16:54:44,664 Accuracy after PGD adverserial attack 16.07%
+2023-05-27 16:58:11,302 Accuracy after FFGSM adverserial attack 29.31%
+2023-05-27 16:59:20,669 Epoch [4], Loss: 0.2150, Training Accuracy: 92.10%, Validation Accuracy: 91.72%
+2023-05-27 16:59:20,678 loss 8.28382838283828
+2023-05-27 16:59:20,678 Parents Individual Number # 5
+2023-05-27 17:14:40,412 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 17:19:03,637 Accuracy after FGSM adverserial attack 12.61%
+2023-05-27 17:45:15,992 Accuracy after BIM adverserial attack 1.55%
+2023-05-27 17:56:53,162 Accuracy after PGD adverserial attack 25.08%
+2023-05-27 18:01:13,028 Accuracy after FFGSM adverserial attack 12.57%
+2023-05-27 18:02:51,365 Epoch [1], Loss: 0.6178, Training Accuracy: 73.53%, Validation Accuracy: 26.44%
+2023-05-27 18:17:38,430 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 18:22:01,756 Accuracy after FGSM adverserial attack 21.95%
+2023-05-27 18:48:15,226 Accuracy after BIM adverserial attack 0.10%
+2023-05-27 18:59:52,579 Accuracy after PGD adverserial attack 25.12%
+2023-05-27 19:04:12,376 Accuracy after FFGSM adverserial attack 21.91%
+2023-05-27 19:05:50,871 Epoch [2], Loss: 0.3784, Training Accuracy: 85.61%, Validation Accuracy: 91.29%
+2023-05-27 19:20:38,264 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 19:25:01,484 Accuracy after FGSM adverserial attack 23.56%
+2023-05-27 19:51:14,385 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 20:02:51,854 Accuracy after PGD adverserial attack 25.12%
+2023-05-27 20:07:12,362 Accuracy after FFGSM adverserial attack 23.43%
+2023-05-27 20:08:50,956 Epoch [3], Loss: 0.1795, Training Accuracy: 93.42%, Validation Accuracy: 94.36%
+2023-05-27 20:23:38,843 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 20:28:02,612 Accuracy after FGSM adverserial attack 22.44%
+2023-05-27 20:54:15,317 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 21:06:03,931 Accuracy after PGD adverserial attack 25.12%
+2023-05-27 21:10:29,357 Accuracy after FFGSM adverserial attack 22.48%
+2023-05-27 21:12:08,810 Epoch [4], Loss: 0.1406, Training Accuracy: 95.10%, Validation Accuracy: 94.92%
+2023-05-27 21:12:08,814 loss 5.082508250825086
+2023-05-27 21:12:08,816 Parents Individual Number # 6
+2023-05-27 21:25:46,652 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 21:29:07,871 Accuracy after FGSM adverserial attack 0.00%
+2023-05-27 21:50:10,472 Accuracy after BIM adverserial attack 0.00%
+2023-05-27 21:59:24,645 Accuracy after PGD adverserial attack 0.00%
+2023-05-27 22:02:43,895 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-27 22:03:48,774 Epoch [1], Loss: 0.7338, Training Accuracy: 68.31%, Validation Accuracy: 0.00%
+2023-05-27 22:16:49,741 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 22:20:12,057 Accuracy after FGSM adverserial attack 18.78%
+2023-05-27 22:41:15,702 Accuracy after BIM adverserial attack 0.40%
+2023-05-27 22:50:30,727 Accuracy after PGD adverserial attack 66.30%
+2023-05-27 22:53:50,265 Accuracy after FFGSM adverserial attack 18.84%
+2023-05-27 22:54:55,518 Epoch [2], Loss: 0.5538, Training Accuracy: 76.29%, Validation Accuracy: 82.48%
+2023-05-27 23:07:55,366 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-27 23:11:16,554 Accuracy after FGSM adverserial attack 4.06%
+2023-05-27 23:32:18,859 Accuracy after BIM adverserial attack 0.07%
+2023-05-27 23:41:32,609 Accuracy after PGD adverserial attack 16.67%
+2023-05-27 23:44:51,827 Accuracy after FFGSM adverserial attack 4.19%
+2023-05-27 23:45:56,977 Epoch [3], Loss: 0.3119, Training Accuracy: 88.07%, Validation Accuracy: 89.47%
+2023-05-27 23:58:54,762 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 00:02:16,270 Accuracy after FGSM adverserial attack 3.40%
+2023-05-28 00:23:20,976 Accuracy after BIM adverserial attack 0.17%
+2023-05-28 00:32:34,943 Accuracy after PGD adverserial attack 45.35%
+2023-05-28 00:35:53,913 Accuracy after FFGSM adverserial attack 3.40%
+2023-05-28 00:36:59,053 Epoch [4], Loss: 0.2585, Training Accuracy: 90.71%, Validation Accuracy: 90.83%
+2023-05-28 00:36:59,053 loss 9.17491749174917
+2023-05-28 00:36:59,053 Parents Individual Number # 7
+2023-05-28 00:50:28,599 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 00:54:41,099 Accuracy after FGSM adverserial attack 0.00%
+2023-05-28 01:19:01,737 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 01:29:54,949 Accuracy after PGD adverserial attack 0.00%
+2023-05-28 01:34:03,960 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-28 01:35:43,619 Epoch [1], Loss: 0.7156, Training Accuracy: 68.92%, Validation Accuracy: 0.00%
+2023-05-28 01:48:33,777 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 01:52:45,849 Accuracy after FGSM adverserial attack 53.37%
+2023-05-28 02:17:04,647 Accuracy after BIM adverserial attack 25.87%
+2023-05-28 02:27:56,819 Accuracy after PGD adverserial attack 45.51%
+2023-05-28 02:32:06,369 Accuracy after FFGSM adverserial attack 53.76%
+2023-05-28 02:33:45,907 Epoch [2], Loss: 0.5931, Training Accuracy: 73.48%, Validation Accuracy: 77.76%
+2023-05-28 02:46:35,136 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 02:50:47,828 Accuracy after FGSM adverserial attack 55.61%
+2023-05-28 03:15:16,792 Accuracy after BIM adverserial attack 1.55%
+2023-05-28 03:26:17,773 Accuracy after PGD adverserial attack 66.30%
+2023-05-28 03:30:27,836 Accuracy after FFGSM adverserial attack 56.14%
+2023-05-28 03:32:07,520 Epoch [3], Loss: 0.4008, Training Accuracy: 82.77%, Validation Accuracy: 84.59%
+2023-05-28 03:44:56,683 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 03:49:09,378 Accuracy after FGSM adverserial attack 53.20%
+2023-05-28 04:13:36,289 Accuracy after BIM adverserial attack 1.22%
+2023-05-28 04:24:35,938 Accuracy after PGD adverserial attack 66.27%
+2023-05-28 04:28:45,291 Accuracy after FFGSM adverserial attack 53.50%
+2023-05-28 04:30:24,875 Epoch [4], Loss: 0.3389, Training Accuracy: 85.82%, Validation Accuracy: 85.84%
+2023-05-28 04:30:24,875 loss 14.158415841584159
+2023-05-28 04:30:50,259 Generation Number # 0
+2023-05-28 04:46:11,314 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 04:50:13,190 Accuracy after FGSM adverserial attack 0.00%
+2023-05-28 05:14:17,940 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 05:24:59,621 Accuracy after PGD adverserial attack 0.00%
+2023-05-28 05:28:58,470 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-28 05:30:27,139 Epoch [1], Loss: 0.6823, Training Accuracy: 69.67%, Validation Accuracy: 0.10%
+2023-05-28 05:44:08,871 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 05:48:10,677 Accuracy after FGSM adverserial attack 47.92%
+2023-05-28 06:12:16,358 Accuracy after BIM adverserial attack 10.83%
+2023-05-28 06:22:58,096 Accuracy after PGD adverserial attack 66.27%
+2023-05-28 06:26:56,898 Accuracy after FFGSM adverserial attack 48.15%
+2023-05-28 06:28:25,330 Epoch [2], Loss: 0.4822, Training Accuracy: 79.90%, Validation Accuracy: 85.45%
+2023-05-28 06:42:06,370 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 06:46:08,453 Accuracy after FGSM adverserial attack 38.98%
+2023-05-28 07:10:14,740 Accuracy after BIM adverserial attack 4.13%
+2023-05-28 07:20:56,892 Accuracy after PGD adverserial attack 46.24%
+2023-05-28 07:24:56,098 Accuracy after FFGSM adverserial attack 38.18%
+2023-05-28 07:26:25,109 Epoch [3], Loss: 0.2354, Training Accuracy: 90.93%, Validation Accuracy: 90.66%
+2023-05-28 07:40:06,639 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 07:44:09,301 Accuracy after FGSM adverserial attack 43.14%
+2023-05-28 08:08:15,211 Accuracy after BIM adverserial attack 5.18%
+2023-05-28 08:19:11,563 Accuracy after PGD adverserial attack 66.27%
+2023-05-28 08:23:10,509 Accuracy after FFGSM adverserial attack 43.10%
+2023-05-28 08:24:39,143 Epoch [4], Loss: 0.1924, Training Accuracy: 92.75%, Validation Accuracy: 91.82%
+2023-05-28 08:42:42,819 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 08:47:52,177 Accuracy after FGSM adverserial attack 5.94%
+2023-05-28 09:18:31,547 Accuracy after BIM adverserial attack 4.52%
+2023-05-28 09:32:08,163 Accuracy after PGD adverserial attack 4.82%
+2023-05-28 09:37:13,723 Accuracy after FFGSM adverserial attack 5.97%
+2023-05-28 09:39:13,345 Epoch [1], Loss: 0.6928, Training Accuracy: 69.74%, Validation Accuracy: 13.93%
+2023-05-28 09:55:40,956 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 10:00:49,528 Accuracy after FGSM adverserial attack 58.55%
+2023-05-28 10:31:29,490 Accuracy after BIM adverserial attack 35.51%
+2023-05-28 10:45:05,795 Accuracy after PGD adverserial attack 66.30%
+2023-05-28 10:50:11,118 Accuracy after FFGSM adverserial attack 58.81%
+2023-05-28 10:52:10,757 Epoch [2], Loss: 0.5836, Training Accuracy: 74.62%, Validation Accuracy: 79.80%
+2023-05-28 11:08:39,401 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 11:13:48,481 Accuracy after FGSM adverserial attack 42.28%
+2023-05-28 11:44:38,583 Accuracy after BIM adverserial attack 8.68%
+2023-05-28 11:58:27,194 Accuracy after PGD adverserial attack 15.91%
+2023-05-28 12:03:35,970 Accuracy after FFGSM adverserial attack 42.18%
+2023-05-28 12:05:36,427 Epoch [3], Loss: 0.3304, Training Accuracy: 86.73%, Validation Accuracy: 88.18%
+2023-05-28 12:22:16,709 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 12:27:34,172 Accuracy after FGSM adverserial attack 33.47%
+2023-05-28 12:58:32,460 Accuracy after BIM adverserial attack 3.43%
+2023-05-28 13:12:22,959 Accuracy after PGD adverserial attack 44.03%
+2023-05-28 13:17:35,793 Accuracy after FFGSM adverserial attack 33.86%
+2023-05-28 13:19:34,824 Epoch [4], Loss: 0.2670, Training Accuracy: 89.56%, Validation Accuracy: 89.64%
+2023-05-28 13:19:34,828 Loss for individual Number 1 8.184818481848183
+2023-05-28 13:19:34,828 Loss for individual Number 2 10.363036303630366
+2023-05-28 13:33:22,542 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 13:37:30,173 Accuracy after FGSM adverserial attack 1.12%
+2023-05-28 14:01:19,567 Accuracy after BIM adverserial attack 0.03%
+2023-05-28 14:11:59,149 Accuracy after PGD adverserial attack 0.00%
+2023-05-28 14:16:03,046 Accuracy after FFGSM adverserial attack 1.12%
+2023-05-28 14:17:39,387 Epoch [1], Loss: 0.6580, Training Accuracy: 70.83%, Validation Accuracy: 8.12%
+2023-05-28 14:31:44,677 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 14:36:11,219 Accuracy after FGSM adverserial attack 13.27%
+2023-05-28 15:00:01,050 Accuracy after BIM adverserial attack 0.03%
+2023-05-28 15:10:40,387 Accuracy after PGD adverserial attack 66.27%
+2023-05-28 15:14:44,661 Accuracy after FFGSM adverserial attack 13.14%
+2023-05-28 15:16:21,108 Epoch [2], Loss: 0.5563, Training Accuracy: 76.35%, Validation Accuracy: 84.52%
+2023-05-28 15:29:27,098 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 15:33:33,997 Accuracy after FGSM adverserial attack 7.06%
+2023-05-28 15:57:22,436 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 16:08:01,311 Accuracy after PGD adverserial attack 8.58%
+2023-05-28 16:12:05,401 Accuracy after FFGSM adverserial attack 6.96%
+2023-05-28 16:13:41,535 Epoch [3], Loss: 0.2580, Training Accuracy: 90.65%, Validation Accuracy: 90.76%
+2023-05-28 16:26:39,363 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 16:30:46,274 Accuracy after FGSM adverserial attack 5.58%
+2023-05-28 16:54:34,578 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 17:05:13,497 Accuracy after PGD adverserial attack 17.79%
+2023-05-28 17:09:17,633 Accuracy after FFGSM adverserial attack 5.71%
+2023-05-28 17:10:53,807 Epoch [4], Loss: 0.2150, Training Accuracy: 92.44%, Validation Accuracy: 92.48%
+2023-05-28 17:23:39,680 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 17:27:36,744 Accuracy after FGSM adverserial attack 0.00%
+2023-05-28 17:50:23,231 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 18:00:32,539 Accuracy after PGD adverserial attack 0.00%
+2023-05-28 18:04:23,470 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-28 18:05:55,755 Epoch [1], Loss: 0.6818, Training Accuracy: 70.40%, Validation Accuracy: 0.00%
+2023-05-28 18:18:23,833 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 18:22:20,734 Accuracy after FGSM adverserial attack 33.93%
+2023-05-28 18:45:07,197 Accuracy after BIM adverserial attack 10.46%
+2023-05-28 18:55:16,157 Accuracy after PGD adverserial attack 45.87%
+2023-05-28 18:59:07,130 Accuracy after FFGSM adverserial attack 33.80%
+2023-05-28 19:00:39,397 Epoch [2], Loss: 0.5419, Training Accuracy: 75.66%, Validation Accuracy: 77.56%
+2023-05-28 19:13:07,842 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 19:17:04,785 Accuracy after FGSM adverserial attack 27.00%
+2023-05-28 19:39:51,405 Accuracy after BIM adverserial attack 0.53%
+2023-05-28 19:50:00,541 Accuracy after PGD adverserial attack 66.27%
+2023-05-28 19:53:51,486 Accuracy after FFGSM adverserial attack 27.26%
+2023-05-28 19:55:23,633 Epoch [3], Loss: 0.3064, Training Accuracy: 88.94%, Validation Accuracy: 91.06%
+2023-05-28 20:07:51,321 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 20:11:48,387 Accuracy after FGSM adverserial attack 27.99%
+2023-05-28 20:34:35,033 Accuracy after BIM adverserial attack 0.46%
+2023-05-28 20:44:44,219 Accuracy after PGD adverserial attack 44.29%
+2023-05-28 20:48:35,225 Accuracy after FFGSM adverserial attack 27.92%
+2023-05-28 20:50:07,387 Epoch [4], Loss: 0.2454, Training Accuracy: 91.45%, Validation Accuracy: 91.06%
+2023-05-28 20:50:07,389 Loss for individual Number 1 7.524752475247524
+2023-05-28 20:50:07,389 Loss for individual Number 2 8.943894389438938
+2023-05-28 21:04:31,078 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 21:08:29,224 Accuracy after FGSM adverserial attack 0.03%
+2023-05-28 21:32:20,927 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 21:42:54,633 Accuracy after PGD adverserial attack 0.00%
+2023-05-28 21:46:49,835 Accuracy after FFGSM adverserial attack 0.03%
+2023-05-28 21:48:15,284 Epoch [1], Loss: 0.6810, Training Accuracy: 70.29%, Validation Accuracy: 1.95%
+2023-05-28 22:02:01,789 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 22:06:00,228 Accuracy after FGSM adverserial attack 6.57%
+2023-05-28 22:29:50,792 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 22:40:23,855 Accuracy after PGD adverserial attack 45.97%
+2023-05-28 22:44:18,804 Accuracy after FFGSM adverserial attack 6.44%
+2023-05-28 22:45:44,524 Epoch [2], Loss: 0.5552, Training Accuracy: 75.52%, Validation Accuracy: 82.77%
+2023-05-28 22:59:30,354 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-28 23:03:28,105 Accuracy after FGSM adverserial attack 2.81%
+2023-05-28 23:27:19,396 Accuracy after BIM adverserial attack 0.00%
+2023-05-28 23:37:52,336 Accuracy after PGD adverserial attack 25.12%
+2023-05-28 23:41:47,252 Accuracy after FFGSM adverserial attack 2.54%
+2023-05-28 23:43:12,834 Epoch [3], Loss: 0.3035, Training Accuracy: 87.84%, Validation Accuracy: 90.07%
+2023-05-28 23:56:59,422 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 00:00:57,171 Accuracy after FGSM adverserial attack 3.33%
+2023-05-29 00:24:50,311 Accuracy after BIM adverserial attack 0.00%
+2023-05-29 00:35:24,541 Accuracy after PGD adverserial attack 45.97%
+2023-05-29 00:39:19,490 Accuracy after FFGSM adverserial attack 3.30%
+2023-05-29 00:40:44,963 Epoch [4], Loss: 0.2372, Training Accuracy: 90.94%, Validation Accuracy: 90.59%
+2023-05-29 00:54:59,894 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 00:59:09,689 Accuracy after FGSM adverserial attack 0.00%
+2023-05-29 01:24:04,575 Accuracy after BIM adverserial attack 0.00%
+2023-05-29 01:35:07,167 Accuracy after PGD adverserial attack 0.00%
+2023-05-29 01:39:13,351 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-29 01:40:47,024 Epoch [1], Loss: 0.6885, Training Accuracy: 70.05%, Validation Accuracy: 0.00%
+2023-05-29 01:54:30,645 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 01:58:40,621 Accuracy after FGSM adverserial attack 63.04%
+2023-05-29 02:23:35,399 Accuracy after BIM adverserial attack 27.26%
+2023-05-29 02:34:37,797 Accuracy after PGD adverserial attack 66.27%
+2023-05-29 02:38:43,807 Accuracy after FFGSM adverserial attack 63.04%
+2023-05-29 02:40:17,338 Epoch [2], Loss: 0.5837, Training Accuracy: 74.48%, Validation Accuracy: 79.04%
+2023-05-29 02:54:01,022 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 02:58:10,906 Accuracy after FGSM adverserial attack 60.03%
+2023-05-29 03:23:06,024 Accuracy after BIM adverserial attack 10.00%
+2023-05-29 03:34:08,223 Accuracy after PGD adverserial attack 66.27%
+2023-05-29 03:38:14,114 Accuracy after FFGSM adverserial attack 60.07%
+2023-05-29 03:39:47,656 Epoch [3], Loss: 0.3534, Training Accuracy: 86.36%, Validation Accuracy: 87.59%
+2023-05-29 03:53:31,526 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 03:57:41,649 Accuracy after FGSM adverserial attack 53.27%
+2023-05-29 04:22:45,966 Accuracy after BIM adverserial attack 5.35%
+2023-05-29 04:33:57,281 Accuracy after PGD adverserial attack 66.30%
+2023-05-29 04:38:03,549 Accuracy after FFGSM adverserial attack 53.04%
+2023-05-29 04:39:37,032 Epoch [4], Loss: 0.2913, Training Accuracy: 89.45%, Validation Accuracy: 89.47%
+2023-05-29 04:39:37,034 Loss for individual Number 1 9.405940594059402
+2023-05-29 04:39:37,034 Loss for individual Number 2 10.528052805280524
+2023-05-29 04:54:10,838 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 04:57:45,014 Accuracy after FGSM adverserial attack 0.00%
+2023-05-29 05:19:21,084 Accuracy after BIM adverserial attack 0.00%
+2023-05-29 05:28:51,903 Accuracy after PGD adverserial attack 0.00%
+2023-05-29 05:32:20,803 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-29 05:33:36,566 Epoch [1], Loss: 0.6760, Training Accuracy: 70.44%, Validation Accuracy: 0.00%
+2023-05-29 05:46:43,048 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 05:50:17,634 Accuracy after FGSM adverserial attack 58.78%
+2023-05-29 06:11:53,823 Accuracy after BIM adverserial attack 33.43%
+2023-05-29 06:21:24,587 Accuracy after PGD adverserial attack 66.30%
+2023-05-29 06:24:53,313 Accuracy after FFGSM adverserial attack 58.61%
+2023-05-29 06:26:09,026 Epoch [2], Loss: 0.5869, Training Accuracy: 74.51%, Validation Accuracy: 77.29%
+2023-05-29 06:39:14,613 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 06:42:49,115 Accuracy after FGSM adverserial attack 42.05%
+2023-05-29 07:04:24,974 Accuracy after BIM adverserial attack 0.13%
+2023-05-29 07:13:55,687 Accuracy after PGD adverserial attack 36.57%
+2023-05-29 07:17:24,450 Accuracy after FFGSM adverserial attack 41.95%
+2023-05-29 07:18:40,313 Epoch [3], Loss: 0.3286, Training Accuracy: 87.36%, Validation Accuracy: 89.67%
+2023-05-29 07:31:46,175 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 07:35:20,345 Accuracy after FGSM adverserial attack 26.24%
+2023-05-29 07:56:56,253 Accuracy after BIM adverserial attack 0.20%
+2023-05-29 08:06:26,804 Accuracy after PGD adverserial attack 45.84%
+2023-05-29 08:09:55,377 Accuracy after FFGSM adverserial attack 26.07%
+2023-05-29 08:11:11,289 Epoch [4], Loss: 0.2510, Training Accuracy: 90.97%, Validation Accuracy: 90.86%
+2023-05-29 08:24:45,848 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 08:28:52,177 Accuracy after FGSM adverserial attack 0.17%
+2023-05-29 08:52:37,749 Accuracy after BIM adverserial attack 0.03%
+2023-05-29 09:03:14,581 Accuracy after PGD adverserial attack 0.00%
+2023-05-29 09:07:17,373 Accuracy after FFGSM adverserial attack 0.17%
+2023-05-29 09:08:53,310 Epoch [1], Loss: 0.6571, Training Accuracy: 71.23%, Validation Accuracy: 3.37%
+2023-05-29 09:21:50,136 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 09:25:56,535 Accuracy after FGSM adverserial attack 15.21%
+2023-05-29 09:49:41,334 Accuracy after BIM adverserial attack 0.40%
+2023-05-29 10:00:18,057 Accuracy after PGD adverserial attack 66.27%
+2023-05-29 10:04:20,918 Accuracy after FFGSM adverserial attack 15.31%
+2023-05-29 10:05:56,348 Epoch [2], Loss: 0.5603, Training Accuracy: 76.00%, Validation Accuracy: 81.39%
+2023-05-29 10:19:52,142 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 10:24:17,665 Accuracy after FGSM adverserial attack 6.24%
+2023-05-29 10:48:05,691 Accuracy after BIM adverserial attack 0.07%
+2023-05-29 10:58:43,905 Accuracy after PGD adverserial attack 44.55%
+2023-05-29 11:02:47,279 Accuracy after FFGSM adverserial attack 5.91%
+2023-05-29 11:04:23,034 Epoch [3], Loss: 0.3226, Training Accuracy: 87.30%, Validation Accuracy: 89.24%
+2023-05-29 11:17:36,482 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 11:21:42,843 Accuracy after FGSM adverserial attack 5.51%
+2023-05-29 11:45:30,414 Accuracy after BIM adverserial attack 0.07%
+2023-05-29 11:56:08,780 Accuracy after PGD adverserial attack 45.84%
+2023-05-29 12:00:12,406 Accuracy after FFGSM adverserial attack 4.85%
+2023-05-29 12:01:48,046 Epoch [4], Loss: 0.2587, Training Accuracy: 90.27%, Validation Accuracy: 90.13%
+2023-05-29 12:01:48,048 Loss for individual Number 1 9.141914191419147
+2023-05-29 12:01:48,048 Loss for individual Number 2 9.867986798679866
+2023-05-29 12:16:08,616 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 12:20:09,858 Accuracy after FGSM adverserial attack 0.00%
+2023-05-29 12:44:25,060 Accuracy after BIM adverserial attack 0.00%
+2023-05-29 12:55:08,817 Accuracy after PGD adverserial attack 0.00%
+2023-05-29 12:59:07,095 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-29 13:00:33,619 Epoch [1], Loss: 0.6781, Training Accuracy: 70.33%, Validation Accuracy: 2.21%
+2023-05-29 13:14:20,009 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 13:18:21,243 Accuracy after FGSM adverserial attack 59.57%
+2023-05-29 13:42:36,304 Accuracy after BIM adverserial attack 28.25%
+2023-05-29 13:53:20,021 Accuracy after PGD adverserial attack 66.27%
+2023-05-29 13:57:18,019 Accuracy after FFGSM adverserial attack 60.00%
+2023-05-29 13:58:44,671 Epoch [2], Loss: 0.4153, Training Accuracy: 84.09%, Validation Accuracy: 88.51%
+2023-05-29 14:12:31,711 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 14:16:33,009 Accuracy after FGSM adverserial attack 52.08%
+2023-05-29 14:41:04,319 Accuracy after BIM adverserial attack 9.31%
+2023-05-29 14:51:50,163 Accuracy after PGD adverserial attack 66.27%
+2023-05-29 14:55:47,898 Accuracy after FFGSM adverserial attack 51.95%
+2023-05-29 14:57:14,698 Epoch [3], Loss: 0.2390, Training Accuracy: 91.35%, Validation Accuracy: 91.22%
+2023-05-29 15:12:13,226 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 15:16:14,945 Accuracy after FGSM adverserial attack 52.28%
+2023-05-29 15:40:31,597 Accuracy after BIM adverserial attack 9.64%
+2023-05-29 15:51:15,690 Accuracy after PGD adverserial attack 38.22%
+2023-05-29 15:55:13,610 Accuracy after FFGSM adverserial attack 51.98%
+2023-05-29 15:56:40,493 Epoch [4], Loss: 0.2070, Training Accuracy: 92.58%, Validation Accuracy: 91.55%
+2023-05-29 16:11:30,651 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 16:15:54,770 Accuracy after FGSM adverserial attack 0.00%
+2023-05-29 16:41:50,700 Accuracy after BIM adverserial attack 0.00%
+2023-05-29 16:53:14,142 Accuracy after PGD adverserial attack 0.00%
+2023-05-29 16:57:27,640 Accuracy after FFGSM adverserial attack 0.00%
+2023-05-29 16:59:03,158 Epoch [1], Loss: 0.6733, Training Accuracy: 70.29%, Validation Accuracy: 0.00%
+2023-05-29 17:14:36,963 Inferred 5 hidden layers on PyTorch classifier.
+2023-05-29 17:18:53,665 Accuracy after FGSM adverserial attack 62.18%
+2023-05-29 17:44:38,108 Accuracy after BIM adverserial attack 55.02%
+2023-05-29 17:56:01,563 Accuracy after PGD adverserial attack 66.30%
+2023-05-29 18:00:14,461 Accuracy after FFGSM adverserial attack 62.28%
+2023-05-29 18:01:49,795 Epoch [2], Loss: 0.6221, Training Accuracy: 72.62%, Validation Accuracy: 74.32%
+2023-05-29 18:16:08,656 Inferred 5 hidden layers on PyTorch classifier.
+2023-08-22 10:07:48,705 Parents_Trained_status: False
+2023-08-22 10:07:48,705 Resume Training Status: False
+2023-08-22 10:07:49,036 Parents Individual Number # 0
+2023-08-22 10:20:35,546 Inferred 5 hidden layers on PyTorch classifier.
+2023-08-22 10:49:48,762 Parents_Trained_status: False
+2023-08-22 10:49:48,762 Resume Training Status: False
+2023-08-22 10:49:49,078 Parents Individual Number # 0
+2023-08-22 11:07:03,744 Inferred 5 hidden layers on PyTorch classifier.
+2023-08-22 11:09:21,298 Epoch [1], Loss: 0.7130, Training Accuracy: 68.91%, Validation Accuracy: 73.47%
+2023-08-22 11:43:31,748 Parents_Trained_status: False
+2023-08-22 11:43:31,748 Resume Training Status: False
+2023-08-22 11:43:32,081 Parents Individual Number # 0
+2023-08-22 11:50:40,931 Inferred 5 hidden layers on PyTorch classifier.
+2023-08-22 11:51:21,868 Epoch [1], Loss: 0.6286, Training Accuracy: 65.11%, Validation Accuracy: 71.48%
+2023-08-22 11:58:32,858 Inferred 5 hidden layers on PyTorch classifier.
+2023-08-22 11:59:15,738 Epoch [2], Loss: 0.4648, Training Accuracy: 77.94%, Validation Accuracy: 81.62%
+2023-08-22 12:06:21,413 Inferred 5 hidden layers on PyTorch classifier.
+2023-08-22 12:07:02,710 Epoch [3], Loss: 0.2790, Training Accuracy: 88.27%, Validation Accuracy: 89.38%
+2023-08-22 12:16:35,632 Parents_Trained_status: False
+2023-08-22 12:16:35,632 Resume Training Status: False
+2023-08-22 12:16:36,032 Parents Individual Number # 0
+2023-08-22 12:17:18,401 Parents_Trained_status: False
+2023-08-22 12:17:18,402 Resume Training Status: False
+2023-08-22 12:17:18,804 Parents Individual Number # 0
+2023-08-22 12:18:46,737 Parents_Trained_status: False
+2023-08-22 12:18:46,738 Resume Training Status: False
+2023-08-22 12:18:47,187 Parents Individual Number # 0
+2023-08-22 12:19:25,944 Parents_Trained_status: False
+2023-08-22 12:19:25,945 Resume Training Status: False
+2023-08-22 12:19:26,349 Parents Individual Number # 0
+2023-08-22 12:21:58,733 Parents_Trained_status: False
+2023-08-22 12:21:58,733 Resume Training Status: False
+2023-08-22 12:21:59,155 Parents Individual Number # 0
+2023-08-22 12:22:40,831 Parents_Trained_status: False
+2023-08-22 12:22:40,831 Resume Training Status: False
+2023-08-22 12:22:41,252 Parents Individual Number # 0
+2023-08-22 12:22:55,843 Parents_Trained_status: False
+2023-08-22 12:22:55,844 Resume Training Status: False
+2023-08-22 12:22:56,257 Parents Individual Number # 0
+2023-08-22 13:26:03,212 Parents_Trained_status: False
+2023-08-22 13:26:03,213 Resume Training Status: False
+2023-08-22 13:26:03,674 Parents Individual Number # 0
+2023-08-22 13:27:56,019 Parents_Trained_status: False
+2023-08-22 13:27:56,019 Resume Training Status: False
+2023-08-22 13:27:56,473 Parents Individual Number # 0
+2023-08-22 13:28:32,402 Parents_Trained_status: False
+2023-08-22 13:28:32,402 Resume Training Status: False
+2023-08-22 13:28:32,854 Parents Individual Number # 0
+2023-08-22 13:32:11,940 Parents_Trained_status: False
+2023-08-22 13:32:11,940 Resume Training Status: False
+2023-08-22 13:32:12,433 Parents Individual Number # 0
+2023-08-22 13:34:12,189 Parents_Trained_status: False
+2023-08-22 13:34:12,189 Resume Training Status: False
+2023-08-22 13:34:12,654 Parents Individual Number # 0
+2023-08-22 13:36:09,305 Parents_Trained_status: False
+2023-08-22 13:36:09,306 Resume Training Status: False
+2023-08-22 13:36:09,793 Parents Individual Number # 0
+2023-08-22 13:38:04,883 Parents_Trained_status: False
+2023-08-22 13:38:04,883 Resume Training Status: False
+2023-08-22 13:38:05,238 Parents Individual Number # 0
+2023-08-22 13:38:48,038 Parents_Trained_status: False
+2023-08-22 13:38:48,039 Resume Training Status: False
+2023-08-22 13:38:48,375 Parents Individual Number # 0
+2023-08-22 13:39:26,830 Parents_Trained_status: False
+2023-08-22 13:39:26,830 Resume Training Status: False
+2023-08-22 13:39:27,164 Parents Individual Number # 0
+2023-08-22 13:40:02,161 Parents_Trained_status: False
+2023-08-22 13:40:02,162 Resume Training Status: False
+2023-08-22 13:40:02,501 Parents Individual Number # 0
+2023-08-22 13:40:40,166 Parents_Trained_status: False
+2023-08-22 13:40:40,166 Resume Training Status: False
+2023-08-22 13:40:40,536 Parents Individual Number # 0
+2023-08-22 13:41:35,231 Parents_Trained_status: False
+2023-08-22 13:41:35,231 Resume Training Status: False
+2023-08-22 13:41:35,575 Parents Individual Number # 0
+2023-08-22 13:42:11,075 Parents_Trained_status: False
+2023-08-22 13:42:11,075 Resume Training Status: False
+2023-08-22 13:42:11,404 Parents Individual Number # 0
+2023-08-22 13:47:26,033 Parents_Trained_status: False
+2023-08-22 13:47:26,033 Resume Training Status: False
+2023-08-22 13:47:26,434 Parents Individual Number # 0
+2023-08-22 13:50:36,733 Parents_Trained_status: False
+2023-08-22 13:50:36,733 Resume Training Status: False
+2023-08-22 13:50:37,062 Parents Individual Number # 0
+2023-08-22 13:51:01,092 Parents_Trained_status: False
+2023-08-22 13:51:01,092 Resume Training Status: False
+2023-08-22 13:51:01,396 Parents Individual Number # 0
+2023-08-22 13:58:12,924 Parents_Trained_status: False
+2023-08-22 13:58:12,925 Resume Training Status: False
+2023-08-22 13:58:13,238 Parents Individual Number # 0
+2023-08-22 13:59:02,513 Parents_Trained_status: False
+2023-08-22 13:59:02,513 Resume Training Status: False
+2023-08-22 13:59:02,834 Parents Individual Number # 0
+2023-08-22 14:00:18,060 Parents_Trained_status: False
+2023-08-22 14:00:18,060 Resume Training Status: False
+2023-08-22 14:00:18,378 Parents Individual Number # 0
+2023-08-22 14:00:25,265 loss None
+2023-08-22 14:00:25,272 Parents Individual Number # 1
+2023-08-22 14:00:29,900 loss None
+2023-08-22 14:00:29,902 Parents Individual Number # 2
+2023-08-22 14:00:33,949 loss None
+2023-08-22 14:00:33,951 Parents Individual Number # 3
+2023-08-22 14:00:38,803 loss None
+2023-08-22 14:00:38,804 Parents Individual Number # 4
+2023-08-22 14:00:44,820 loss None
+2023-08-22 14:00:44,821 Parents Individual Number # 5
+2023-08-22 14:00:49,962 loss None
+2023-08-22 14:00:49,964 Parents Individual Number # 6
+2023-08-22 14:00:54,528 loss None
+2023-08-22 14:00:54,530 Parents Individual Number # 7
+2023-08-22 14:00:58,813 loss None
+2023-08-22 14:03:25,402 Parents_Trained_status: False
+2023-08-22 14:03:25,402 Resume Training Status: False
+2023-08-22 14:03:25,842 Parents Individual Number # 0
+2023-08-22 14:03:58,957 Parents_Trained_status: False
+2023-08-22 14:03:58,957 Resume Training Status: False
+2023-08-22 14:03:59,335 Parents Individual Number # 0
+2023-08-22 14:04:57,100 loss {'snip': 94.38530731201172, 'grasp': 78.60200500488281, 'grad_norm': 24.518680572509766}
+2023-08-22 14:05:13,416 Parents_Trained_status: False
+2023-08-22 14:05:13,416 Resume Training Status: False
+2023-08-22 14:05:13,809 Parents Individual Number # 0
+2023-08-22 14:07:48,576 Parents_Trained_status: False
+2023-08-22 14:07:48,576 Resume Training Status: False
+2023-08-22 14:07:48,876 Parents Individual Number # 0
+2023-08-22 14:07:54,226 loss 13.595232009887695
+2023-08-22 14:07:54,229 Parents Individual Number # 1
+2023-08-22 14:07:58,298 loss 23.284223556518555
+2023-08-22 14:07:58,299 Parents Individual Number # 2
+2023-08-22 14:08:02,654 loss 24.206920623779297
+2023-08-22 14:08:02,655 Parents Individual Number # 3
+2023-08-22 14:08:06,783 loss 35.56120681762695
+2023-08-22 14:08:06,784 Parents Individual Number # 4
+2023-08-22 14:08:10,589 loss 13.998031616210938
+2023-08-22 14:08:10,590 Parents Individual Number # 5
+2023-08-22 14:08:14,129 loss 17.974454879760742
+2023-08-22 14:08:14,131 Parents Individual Number # 6
+2023-08-22 14:08:18,268 loss 15.520406723022461
+2023-08-22 14:08:18,269 Parents Individual Number # 7
+2023-08-22 14:08:22,626 loss 29.56624412536621
+2023-08-22 14:08:48,880 Generation Number # 0
+2023-08-22 14:12:19,499 Parents_Trained_status: False
+2023-08-22 14:12:19,499 Resume Training Status: False
+2023-08-22 14:16:03,792 Parents_Trained_status: False
+2023-08-22 14:16:03,792 Resume Training Status: False
+2023-08-22 14:16:43,301 Parents Individual Number # 0
+2023-08-22 14:16:54,291 loss 25.691205978393555
+2023-08-22 14:16:54,299 Parents Individual Number # 1
+2023-08-22 14:17:00,248 loss 21.74470329284668
+2023-08-22 14:17:00,251 Parents Individual Number # 2
+2023-08-22 14:17:06,818 loss 21.11074447631836
+2023-08-22 14:17:06,822 Parents Individual Number # 3
+2023-08-22 14:17:13,900 loss 33.50139236450195
+2023-08-22 14:17:13,904 Parents Individual Number # 4
+2023-08-22 14:17:21,040 loss 34.64281463623047
+2023-08-22 14:17:21,044 Parents Individual Number # 5
+2023-08-22 14:17:28,558 loss 21.469440460205078
+2023-08-22 14:17:28,562 Parents Individual Number # 6
+2023-08-22 14:17:34,830 loss 19.173093795776367
+2023-08-22 14:17:34,834 Parents Individual Number # 7
+2023-08-22 14:17:42,412 loss 18.923324584960938
+2023-08-22 14:17:42,415 Parents Individual Number # 8
+2023-08-22 14:17:50,099 loss 25.58965301513672
+2023-08-22 14:17:50,102 Parents Individual Number # 9
+2023-08-22 14:17:57,363 loss 39.827091217041016
+2023-08-22 14:17:57,366 Parents Individual Number # 10
+2023-08-22 14:25:28,566 Parents_Trained_status: False
+2023-08-22 14:25:28,566 Resume Training Status: False
+2023-08-22 14:26:08,263 Parents Individual Number # 0
+2023-08-22 14:26:19,766 loss 23.864490509033203
+2023-08-22 14:26:19,771 Parents Individual Number # 1
+2023-08-22 14:27:44,579 Parents_Trained_status: False
+2023-08-22 14:27:44,579 Resume Training Status: False
+2023-08-22 14:34:51,890 Parents_Trained_status: False
+2023-08-22 14:34:51,890 Resume Training Status: False
+2023-08-22 14:35:31,532 Parents Individual Number # 0
+2023-08-22 14:36:47,784 Parents_Trained_status: False
+2023-08-22 14:36:47,785 Resume Training Status: False
+2023-08-22 14:37:27,393 Parents Individual Number # 0
+2023-08-22 14:39:01,587 Parents_Trained_status: False
+2023-08-22 14:39:01,587 Resume Training Status: False
+2023-08-22 14:39:41,099 Parents Individual Number # 0
+2023-08-22 14:42:02,360 Parents_Trained_status: False
+2023-08-22 14:42:02,360 Resume Training Status: False
+2023-08-22 14:42:41,738 Parents Individual Number # 0
+2023-08-22 14:42:50,859 loss 49.04926300048828
+2023-08-22 14:42:50,865 Parents Individual Number # 1
+2023-08-22 14:42:56,536 loss 18.252511978149414
+2023-08-22 14:42:56,540 Parents Individual Number # 2
+2023-08-22 14:43:02,750 loss 19.109046936035156
+2023-08-22 14:43:02,754 Parents Individual Number # 3
+2023-08-22 14:43:08,922 loss 40.96570587158203
+2023-08-22 14:43:08,925 Parents Individual Number # 4
+2023-08-22 14:43:14,905 loss 34.13472366333008
+2023-08-22 14:43:14,909 Parents Individual Number # 5
+2023-08-22 14:43:20,931 loss 15.561671257019043
+2023-08-22 14:43:20,934 Parents Individual Number # 6
+2023-08-22 14:43:27,155 loss 28.1943302154541
+2023-08-22 14:43:27,159 Parents Individual Number # 7
+2023-08-22 14:43:33,262 loss 35.74787902832031
+2023-08-22 14:43:33,267 Parents Individual Number # 8
+2023-08-22 14:43:39,102 loss 27.34876823425293
+2023-08-22 14:43:39,105 Parents Individual Number # 9
+2023-08-22 14:43:44,834 loss 35.19914245605469
+2023-08-22 14:43:44,837 Parents Individual Number # 10
+2023-08-22 14:43:50,620 loss 12.36634635925293
+2023-08-22 14:43:50,624 Parents Individual Number # 11
+2023-08-22 14:43:56,585 loss 34.42512130737305
+2023-08-22 14:43:56,589 Parents Individual Number # 12
+2023-08-22 14:44:02,122 loss 20.60527801513672
+2023-08-22 14:44:02,127 Parents Individual Number # 13
+2023-08-22 14:44:08,280 loss 18.7677001953125
+2023-08-22 14:44:08,284 Parents Individual Number # 14
+2023-08-22 14:44:14,148 loss 25.11164665222168
+2023-08-22 14:44:14,152 Parents Individual Number # 15
+2023-08-22 14:44:20,059 loss 30.683975219726562
+2023-08-22 14:44:20,062 Parents Individual Number # 16
+2023-08-22 14:44:25,960 loss 29.625349044799805
+2023-08-22 14:44:25,964 Parents Individual Number # 17
+2023-08-22 14:44:31,757 loss 11.001989364624023
+2023-08-22 14:44:31,761 Parents Individual Number # 18
+2023-08-22 14:44:37,544 loss 25.031356811523438
+2023-08-22 14:44:37,547 Parents Individual Number # 19
+2023-08-22 14:44:43,546 loss 54.604103088378906
+2023-08-22 14:44:43,550 Parents Individual Number # 20
+2023-08-22 14:44:49,486 loss 37.49220657348633
+2023-08-22 14:44:49,489 Parents Individual Number # 21
+2023-08-22 14:44:55,297 loss 16.34673500061035
+2023-08-22 14:44:55,301 Parents Individual Number # 22
+2023-08-22 14:45:00,975 loss 19.425657272338867
+2023-08-22 14:45:00,979 Parents Individual Number # 23
+2023-08-22 14:45:06,889 loss 42.307552337646484
+2023-08-22 14:45:06,894 Parents Individual Number # 24
+2023-08-22 14:45:12,682 loss 53.05851745605469
+2023-08-22 14:45:12,686 Parents Individual Number # 25
+2023-08-22 14:45:18,704 loss 42.51128387451172
+2023-08-22 14:45:18,708 Parents Individual Number # 26
+2023-08-22 14:45:24,264 loss 19.56456756591797
+2023-08-22 14:45:24,268 Parents Individual Number # 27
+2023-08-22 14:45:30,491 loss 18.746047973632812
+2023-08-22 14:45:30,496 Parents Individual Number # 28
+2023-08-22 14:45:36,609 loss 15.503056526184082
+2023-08-22 14:45:36,613 Parents Individual Number # 29
+2023-08-22 14:45:42,505 loss 24.688743591308594
+2023-08-22 14:45:42,509 Parents Individual Number # 30
+2023-08-22 14:45:48,120 loss 33.41294860839844
+2023-08-22 14:45:48,124 Parents Individual Number # 31
+2023-08-22 14:45:54,306 loss 24.0585880279541
+2023-08-22 14:45:54,310 Parents Individual Number # 32
+2023-08-22 14:46:00,332 loss 43.83234405517578
+2023-08-22 14:46:00,336 Parents Individual Number # 33
+2023-08-22 14:46:05,992 loss 24.809118270874023
+2023-08-22 14:46:05,996 Parents Individual Number # 34
+2023-08-22 14:46:12,086 loss 19.279369354248047
+2023-08-22 14:46:12,089 Parents Individual Number # 35
+2023-08-22 14:46:17,778 loss 21.01543426513672
+2023-08-22 14:46:17,781 Parents Individual Number # 36
+2023-08-22 14:46:24,023 loss 81.30729675292969
+2023-08-22 14:46:24,027 Parents Individual Number # 37
+2023-08-22 14:46:30,064 loss 34.76021957397461
+2023-08-22 14:46:30,068 Parents Individual Number # 38
+2023-08-22 14:46:36,462 loss 40.4959602355957
+2023-08-22 14:46:36,466 Parents Individual Number # 39
+2023-08-22 14:46:42,187 loss 26.641963958740234
+2023-08-22 14:46:42,190 Parents Individual Number # 40
+2023-08-22 14:46:47,982 loss 21.249610900878906
+2023-08-22 14:46:47,985 Parents Individual Number # 41
+2023-08-22 14:46:53,894 loss 18.077184677124023
+2023-08-22 14:46:53,898 Parents Individual Number # 42
+2023-08-22 14:46:59,500 loss 22.56531524658203
+2023-08-22 14:46:59,504 Parents Individual Number # 43
+2023-08-22 14:47:05,542 loss 17.10926055908203
+2023-08-22 14:47:05,545 Parents Individual Number # 44
+2023-08-22 14:47:11,097 loss 17.69010353088379
+2023-08-22 14:47:11,101 Parents Individual Number # 45
+2023-08-22 14:47:17,671 loss 29.43370819091797
+2023-08-22 14:47:17,675 Parents Individual Number # 46
+2023-08-22 14:47:24,075 loss 16.63958168029785
+2023-08-22 14:47:24,079 Parents Individual Number # 47
+2023-08-22 14:47:30,204 loss 21.242889404296875
+2023-08-22 14:47:30,207 Parents Individual Number # 48
+2023-08-22 14:47:36,298 loss 19.0347843170166
+2023-08-22 14:47:36,301 Parents Individual Number # 49
+2023-08-22 14:47:42,100 loss 25.243282318115234
+2023-08-22 14:47:42,104 Parents Individual Number # 50
+2023-08-22 14:47:48,305 loss 44.09016799926758
+2023-08-22 14:47:48,309 Parents Individual Number # 51
+2023-08-22 14:47:54,301 loss 12.62775707244873
+2023-08-22 14:47:54,305 Parents Individual Number # 52
+2023-08-22 14:47:59,993 loss 21.378307342529297
+2023-08-22 14:47:59,996 Parents Individual Number # 53
+2023-08-22 14:48:05,478 loss 37.69967269897461
+2023-08-22 14:48:05,482 Parents Individual Number # 54
+2023-08-22 14:48:11,393 loss 24.71870231628418
+2023-08-22 14:48:11,397 Parents Individual Number # 55
+2023-08-22 14:48:17,262 loss 22.134113311767578
+2023-08-22 14:48:17,266 Parents Individual Number # 56
+2023-08-22 14:48:23,280 loss 26.397184371948242
+2023-08-22 14:48:23,284 Parents Individual Number # 57
+2023-08-22 14:48:29,232 loss 20.923460006713867
+2023-08-22 14:48:29,236 Parents Individual Number # 58
+2023-08-22 14:48:35,137 loss 24.035924911499023
+2023-08-22 14:48:35,141 Parents Individual Number # 59
+2023-08-22 14:48:41,300 loss 21.878829956054688
+2023-08-22 14:48:41,304 Parents Individual Number # 60
+2023-08-22 14:48:47,491 loss 33.33694839477539
+2023-08-22 14:48:47,495 Parents Individual Number # 61
+2023-08-22 14:48:53,053 loss 13.670747756958008
+2023-08-22 14:48:53,056 Parents Individual Number # 62
+2023-08-22 14:48:58,860 loss 15.582279205322266
+2023-08-22 14:48:58,864 Parents Individual Number # 63
+2023-08-22 14:49:04,922 loss 33.01891326904297
+2023-08-22 14:49:04,926 Parents Individual Number # 64
+2023-08-22 14:49:11,248 loss 28.20199966430664
+2023-08-22 14:49:11,251 Parents Individual Number # 65
+2023-08-22 14:49:17,196 loss 41.957496643066406
+2023-08-22 14:49:17,200 Parents Individual Number # 66
+2023-08-22 14:49:23,041 loss 26.86359405517578
+2023-08-22 14:49:23,045 Parents Individual Number # 67
+2023-08-22 14:49:29,096 loss 29.994848251342773
+2023-08-22 14:49:29,101 Parents Individual Number # 68
+2023-08-22 14:49:35,116 loss 21.344249725341797
+2023-08-22 14:49:35,120 Parents Individual Number # 69
+2023-08-22 14:49:41,306 loss 25.927810668945312
+2023-08-22 14:49:41,310 Parents Individual Number # 70
+2023-08-22 14:49:47,006 loss 18.960968017578125
+2023-08-22 14:49:47,010 Parents Individual Number # 71
+2023-08-22 14:49:53,053 loss 45.259674072265625
+2023-08-22 14:49:53,057 Parents Individual Number # 72
+2023-08-22 14:49:58,567 loss 28.93292999267578
+2023-08-22 14:49:58,571 Parents Individual Number # 73
+2023-08-22 14:50:04,714 loss 18.830406188964844
+2023-08-22 14:50:04,717 Parents Individual Number # 74
+2023-08-22 14:50:10,811 loss 35.73963928222656
+2023-08-22 14:50:10,815 Parents Individual Number # 75
+2023-08-22 14:50:16,890 loss 79.52838134765625
+2023-08-22 14:50:16,894 Parents Individual Number # 76
+2023-08-22 14:50:23,057 loss 16.250377655029297
+2023-08-22 14:50:23,062 Parents Individual Number # 77
+2023-08-22 14:50:29,161 loss 17.73358917236328
+2023-08-22 14:50:29,165 Parents Individual Number # 78
+2023-08-22 14:50:34,604 loss 16.131561279296875
+2023-08-22 14:50:34,608 Parents Individual Number # 79
+2023-08-22 14:50:40,738 loss 16.87481689453125
+2023-08-22 14:50:40,742 Parents Individual Number # 80
+2023-08-22 14:50:46,936 loss 21.199432373046875
+2023-08-22 14:50:46,940 Parents Individual Number # 81
+2023-08-22 14:50:52,687 loss 26.163475036621094
+2023-08-22 14:50:52,691 Parents Individual Number # 82
+2023-08-22 14:50:58,885 loss 46.16381072998047
+2023-08-22 14:50:58,889 Parents Individual Number # 83
+2023-08-22 14:51:04,907 loss 18.999492645263672
+2023-08-22 14:51:04,911 Parents Individual Number # 84
+2023-08-22 14:51:10,674 loss 62.66640090942383
+2023-08-22 14:51:10,678 Parents Individual Number # 85
+2023-08-22 14:51:16,498 loss 24.013139724731445
+2023-08-22 14:51:16,502 Parents Individual Number # 86
+2023-08-22 14:51:22,270 loss 9.085173606872559
+2023-08-22 14:51:22,274 Parents Individual Number # 87
+2023-08-22 14:51:28,236 loss 45.01442337036133
+2023-08-22 14:51:28,239 Parents Individual Number # 88
+2023-08-23 14:10:22,293 Parents_Trained_status: False
+2023-08-23 14:10:22,294 Resume Training Status: False
+2023-08-23 14:13:32,314 Parents_Trained_status: False
+2023-08-23 14:13:32,315 Resume Training Status: False
+2023-08-23 14:13:48,114 Parents_Trained_status: False
+2023-08-23 14:13:48,114 Resume Training Status: False
+2023-08-23 14:14:23,667 Parents Individual Number # 0
+2023-08-23 14:14:32,856 loss 44.67287063598633
+2023-08-23 14:14:32,862 Parents Individual Number # 1
+2023-08-23 14:14:38,898 loss 16.074857711791992
+2023-08-23 14:14:38,902 Parents Individual Number # 2
+2023-08-23 14:14:44,694 loss 15.185224533081055
+2023-08-23 14:14:44,698 Parents Individual Number # 3
+2023-08-23 14:14:50,246 loss 16.876279830932617
+2023-08-23 14:14:50,250 Parents Individual Number # 4
+2023-08-23 14:14:56,363 loss 19.572179794311523
+2023-08-23 14:14:56,366 Parents Individual Number # 5
+2023-08-23 14:15:02,123 loss 18.860654830932617
+2023-08-23 14:15:02,126 Parents Individual Number # 6
+2023-08-23 14:15:07,857 loss 14.942325592041016
+2023-08-23 14:15:07,860 Parents Individual Number # 7
+2023-08-23 14:15:13,395 loss 15.547222137451172
+2023-08-23 14:15:13,399 Parents Individual Number # 8
+2023-08-23 14:15:18,790 loss 15.342977523803711
+2023-08-23 14:15:18,795 Parents Individual Number # 9
+2023-08-23 14:15:24,223 loss 11.340497970581055
+2023-08-23 14:15:24,227 Parents Individual Number # 10
+2023-08-23 14:15:30,040 loss 33.37752151489258
+2023-08-23 14:15:30,044 Parents Individual Number # 11
+2023-08-23 14:15:35,809 loss 22.7218074798584
+2023-08-23 14:15:35,813 Parents Individual Number # 12
+2023-08-23 14:15:41,473 loss 24.080568313598633
+2023-08-23 14:15:41,476 Parents Individual Number # 13
+2023-08-23 14:15:47,192 loss 20.572315216064453
+2023-08-23 14:15:47,195 Parents Individual Number # 14
+2023-08-23 14:15:53,042 loss 15.335832595825195
+2023-08-23 14:15:53,046 Parents Individual Number # 15
+2023-08-23 14:15:58,628 loss 16.419815063476562
+2023-08-23 14:15:58,632 Parents Individual Number # 16
+2023-08-23 14:16:04,257 loss 21.275569915771484
+2023-08-23 14:16:04,261 Parents Individual Number # 17
+2023-08-23 14:16:10,030 loss 20.06873321533203
+2023-08-23 14:16:10,034 Parents Individual Number # 18
+2023-08-23 14:16:16,317 loss 37.43492889404297
+2023-08-23 14:16:16,320 Parents Individual Number # 19
+2023-08-23 14:16:22,407 loss 26.913734436035156
+2023-08-23 14:16:22,410 Parents Individual Number # 20
+2023-08-23 14:16:28,075 loss 18.88306427001953
+2023-08-23 14:16:28,078 Parents Individual Number # 21
+2023-08-23 14:16:33,784 loss 37.787742614746094
+2023-08-23 14:16:33,788 Parents Individual Number # 22
+2023-08-23 14:16:39,674 loss 25.764854431152344
+2023-08-23 14:16:39,677 Parents Individual Number # 23
+2023-08-23 14:16:45,650 loss 13.527800559997559
+2023-08-23 14:16:45,653 Parents Individual Number # 24
+2023-08-23 14:16:51,449 loss 43.29016876220703
+2023-08-23 14:16:51,453 Parents Individual Number # 25
+2023-08-23 14:16:57,431 loss 48.084312438964844
+2023-08-23 14:16:57,434 Parents Individual Number # 26
+2023-08-23 14:17:03,229 loss 21.85100555419922
+2023-08-23 14:17:03,233 Parents Individual Number # 27
+2023-08-23 14:17:09,644 loss 34.67613983154297
+2023-08-23 14:17:09,647 Parents Individual Number # 28
+2023-08-23 14:17:15,421 loss 34.25761413574219
+2023-08-23 14:17:15,424 Parents Individual Number # 29
+2023-08-23 14:17:21,345 loss 20.363656997680664
+2023-08-23 14:17:21,349 Parents Individual Number # 30
+2023-08-23 14:17:26,913 loss 23.328201293945312
+2023-08-23 14:17:26,916 Parents Individual Number # 31
+2023-08-23 14:17:32,799 loss 49.907596588134766
+2023-08-23 14:17:32,803 Parents Individual Number # 32
+2023-08-23 14:17:38,555 loss 31.14404296875
+2023-08-23 14:17:38,558 Parents Individual Number # 33
+2023-08-23 14:17:44,341 loss 28.70181655883789
+2023-08-23 14:17:44,344 Parents Individual Number # 34
+2023-08-23 14:17:50,238 loss 18.87738037109375
+2023-08-23 14:17:50,242 Parents Individual Number # 35
+2023-08-23 14:17:55,915 loss 28.253862380981445
+2023-08-23 14:17:55,918 Parents Individual Number # 36
+2023-08-23 14:18:01,484 loss 18.475109100341797
+2023-08-23 14:18:01,488 Parents Individual Number # 37
+2023-08-23 14:18:07,135 loss 18.63865089416504
+2023-08-23 14:18:07,138 Parents Individual Number # 38
+2023-08-23 14:18:12,737 loss 24.734115600585938
+2023-08-23 14:18:12,741 Parents Individual Number # 39
+2023-08-23 14:18:18,083 loss 16.082969665527344
+2023-08-23 14:18:18,086 Parents Individual Number # 40
+2023-08-23 14:18:23,578 loss 18.598926544189453
+2023-08-23 14:18:23,581 Parents Individual Number # 41
+2023-08-23 14:18:29,704 loss 15.51527214050293
+2023-08-23 14:18:29,708 Parents Individual Number # 42
+2023-08-23 14:18:35,230 loss 13.605619430541992
+2023-08-23 14:18:35,233 Parents Individual Number # 43
+2023-08-23 14:18:40,977 loss 30.44534683227539
+2023-08-23 14:18:40,982 Parents Individual Number # 44
+2023-08-23 14:18:46,821 loss 43.440330505371094
+2023-08-23 14:18:46,826 Parents Individual Number # 45
+2023-08-23 14:18:52,775 loss 30.55135154724121
+2023-08-23 14:18:52,779 Parents Individual Number # 46
+2023-08-23 14:18:58,647 loss 17.778539657592773
+2023-08-23 14:18:58,651 Parents Individual Number # 47
+2023-08-23 14:19:04,368 loss 23.953943252563477
+2023-08-23 14:19:04,372 Parents Individual Number # 48
+2023-08-23 14:19:10,179 loss 26.662410736083984
+2023-08-23 14:19:10,183 Parents Individual Number # 49
+2023-08-23 14:19:15,988 loss 30.781702041625977
+2023-08-23 14:19:16,008 Parents Individual Number # 50
+2023-08-23 14:19:21,979 loss 53.66839599609375
+2023-08-23 14:19:21,982 Parents Individual Number # 51
+2023-08-25 15:41:03,604 Parents_Trained_status: False
+2023-08-25 15:41:03,605 Resume Training Status: False
+2023-08-25 15:41:40,287 Parents Individual Number # 0
+2023-08-25 15:43:05,743 Parents_Trained_status: False
+2023-08-25 15:43:05,743 Resume Training Status: False
+2023-08-25 15:43:41,964 Parents Individual Number # 0
+2023-08-25 15:44:06,928 Parents_Trained_status: False
+2023-08-25 15:44:06,928 Resume Training Status: False
+2023-08-25 15:44:41,938 Parents Individual Number # 0
+2023-08-25 15:44:53,747 loss 26.934783935546875
+2023-08-25 15:44:53,903 Parents Individual Number # 1
+2023-08-25 15:48:50,175 Parents_Trained_status: False
+2023-08-25 15:48:50,175 Resume Training Status: False
+2023-08-25 15:49:28,252 Parents Individual Number # 0
+2023-08-25 15:49:41,166 loss 23.043338775634766
+2023-08-25 15:49:41,173 Parents Individual Number # 1
+2023-08-25 15:49:47,204 loss 31.37526512145996
+2023-08-25 15:49:47,207 Parents Individual Number # 2
+2023-08-25 15:49:53,134 loss 34.40422821044922
+2023-08-25 15:49:53,137 Parents Individual Number # 3
+2023-08-25 15:49:58,498 loss 14.507673263549805
+2023-08-25 15:49:58,501 Parents Individual Number # 4
+2023-08-25 15:50:03,749 loss 30.512592315673828
+2023-08-25 15:50:03,752 Parents Individual Number # 5
+2023-08-25 15:50:09,560 loss 45.632354736328125
+2023-08-25 15:50:09,564 Parents Individual Number # 6
+2023-08-28 09:40:56,639 Parents_Trained_status: False
+2023-08-28 09:40:56,640 Resume Training Status: False
+2023-08-28 09:41:31,303 Parents Individual Number # 0
+2023-08-28 09:41:44,867 loss 49.07169723510742
+2023-08-28 09:41:44,875 Parents Individual Number # 1
+2023-08-28 09:52:13,499 Parents_Trained_status: False
+2023-08-28 09:52:13,500 Resume Training Status: False
+2023-08-28 09:53:10,999 Parents Individual Number # 0
+2023-08-28 10:03:21,132 Parents_Trained_status: False
+2023-08-28 10:03:21,132 Resume Training Status: False
+2023-08-28 10:04:17,321 Parents Individual Number # 0
+2023-08-28 10:05:10,577 Parents_Trained_status: False
+2023-08-28 10:05:10,578 Resume Training Status: False
+2023-08-28 10:06:05,399 Parents Individual Number # 0
+2023-08-28 10:07:21,329 Parents_Trained_status: False
+2023-08-28 10:07:21,330 Resume Training Status: False
+2023-08-28 10:08:17,594 Parents Individual Number # 0
+2023-08-28 10:12:48,130 loss 31.473453521728516
+2023-08-28 10:12:48,145 Parents Individual Number # 1
+2023-08-28 10:12:55,210 loss 46.499549865722656
+2023-08-28 10:12:55,216 Parents Individual Number # 2
+2023-08-28 10:13:01,857 loss 32.75299835205078
+2023-08-28 10:13:01,861 Parents Individual Number # 3
+2023-08-28 10:13:08,063 loss 17.90105628967285
+2023-08-28 10:13:08,066 Parents Individual Number # 4
+2023-08-28 10:13:14,708 loss 31.579418182373047
+2023-08-28 10:13:14,712 Parents Individual Number # 5
+2023-08-28 10:13:20,984 loss 13.068665504455566
+2023-08-28 10:13:20,988 Parents Individual Number # 6
+2023-08-28 10:13:27,985 loss 36.13381576538086
+2023-08-28 10:13:27,989 Parents Individual Number # 7
+2023-08-28 10:13:34,590 loss 26.204345703125
+2023-08-28 10:13:34,594 Parents Individual Number # 8
+2023-08-28 10:13:41,291 loss 39.037776947021484
+2023-08-28 10:13:41,295 Parents Individual Number # 9
+2023-08-28 10:13:48,251 loss 19.732765197753906
+2023-08-28 10:13:48,255 Parents Individual Number # 10
+2023-08-28 10:13:55,225 loss 45.75151824951172
+2023-08-28 10:13:55,229 Parents Individual Number # 11
+2023-08-28 10:14:01,630 loss 26.402475357055664
+2023-08-28 10:14:01,634 Parents Individual Number # 12
+2023-08-28 10:14:08,209 loss 26.52675437927246
+2023-08-28 10:14:08,213 Parents Individual Number # 13
+2023-08-28 10:14:15,011 loss 38.346900939941406
+2023-08-28 10:14:15,015 Parents Individual Number # 14
+2023-08-28 10:14:21,870 loss 27.548768997192383
+2023-08-28 10:14:21,874 Parents Individual Number # 15
+2023-08-28 10:14:28,554 loss 18.962810516357422
+2023-08-28 10:14:28,558 Parents Individual Number # 16
+2023-08-28 10:14:35,391 loss 21.044361114501953
+2023-08-28 10:14:35,395 Parents Individual Number # 17
+2023-08-28 10:14:42,014 loss 32.29405975341797
+2023-08-28 10:14:42,018 Parents Individual Number # 18
+2023-08-28 10:14:48,744 loss 21.124881744384766
+2023-08-28 10:14:48,748 Parents Individual Number # 19
+2023-08-28 10:14:55,552 loss 41.34547805786133
+2023-08-28 10:14:55,556 Parents Individual Number # 20
+2023-08-28 10:15:02,048 loss 17.423559188842773
+2023-08-28 10:15:02,052 Parents Individual Number # 21
+2023-08-28 10:15:08,551 loss 81.87445068359375
+2023-08-28 10:15:08,555 Parents Individual Number # 22
+2023-08-28 10:15:15,484 loss 17.50713348388672
+2023-08-28 10:15:15,488 Parents Individual Number # 23
+2023-08-28 10:15:21,945 loss 23.539974212646484
+2023-08-28 10:15:21,950 Parents Individual Number # 24
+2023-08-28 10:15:28,518 loss 47.916603088378906
+2023-08-28 10:15:28,522 Parents Individual Number # 25
+2023-08-28 10:19:27,101 Parents_Trained_status: False
+2023-08-28 10:19:27,101 Resume Training Status: False
+2023-08-28 10:22:12,544 Parents_Trained_status: False
+2023-08-28 10:22:12,544 Resume Training Status: False
+2023-08-28 10:22:57,625 Parents_Trained_status: False
+2023-08-28 10:22:57,626 Resume Training Status: False
+2023-08-28 10:23:31,109 Parents_Trained_status: False
+2023-08-28 10:23:31,110 Resume Training Status: False
+2023-08-28 10:24:14,010 Parents_Trained_status: False
+2023-08-28 10:24:14,010 Resume Training Status: False
+2023-08-28 10:27:43,091 Parents_Trained_status: False
+2023-08-28 10:27:43,091 Resume Training Status: False
+2023-08-28 10:27:59,472 Parents_Trained_status: False
+2023-08-28 10:27:59,472 Resume Training Status: False
+2023-08-28 10:28:56,773 Parents Individual Number # 0
+2023-08-28 10:34:27,464 Parents_Trained_status: False
+2023-08-28 10:34:27,464 Resume Training Status: False
+2023-08-28 10:35:21,229 Parents Individual Number # 0
+2023-08-28 10:37:15,341 Parents_Trained_status: False
+2023-08-28 10:37:15,341 Resume Training Status: False
+2023-08-28 10:38:07,436 Parents Individual Number # 0
+2023-08-28 10:50:30,075 Parents_Trained_status: False
+2023-08-28 10:50:30,075 Resume Training Status: False
+2023-08-28 10:51:22,971 Parents Individual Number # 0
+2023-08-28 10:55:43,099 loss 23.369338989257812
+2023-08-28 10:55:43,115 Parents Individual Number # 1
+2023-08-28 10:56:01,298 Parents_Trained_status: False
+2023-08-28 10:56:01,299 Resume Training Status: False
+2023-08-28 10:56:35,788 Parents Individual Number # 0
+2023-08-28 10:56:44,455 loss 25.9195499420166
+2023-08-28 10:56:44,461 Parents Individual Number # 1
+2023-08-28 10:56:50,360 loss 27.69080352783203
+2023-08-28 10:56:50,363 Parents Individual Number # 2
+2023-08-28 10:56:56,176 loss 33.86894989013672
+2023-08-28 10:56:56,179 Parents Individual Number # 3
+2023-08-28 10:57:02,237 loss 31.643461227416992
+2023-08-28 10:57:02,241 Parents Individual Number # 4
+2023-08-28 10:57:07,829 loss 50.237266540527344
+2023-08-28 10:57:07,832 Parents Individual Number # 5
+2023-08-28 10:57:13,713 loss 12.843843460083008
+2023-08-28 10:57:13,716 Parents Individual Number # 6
+2023-08-28 10:57:19,223 loss 23.85265350341797
+2023-08-28 10:57:19,227 Parents Individual Number # 7
+2023-08-28 10:57:24,776 loss 19.41257095336914
+2023-08-28 10:57:24,780 Parents Individual Number # 8
+2023-08-28 10:57:30,613 loss 14.236616134643555
+2023-08-28 10:57:30,616 Parents Individual Number # 9
+2023-08-28 10:57:36,744 loss 40.44123077392578
+2023-08-28 10:57:36,748 Parents Individual Number # 10
+2023-08-28 10:57:42,661 loss 21.41279411315918
+2023-08-28 10:57:42,666 Parents Individual Number # 11
+2023-08-28 10:57:49,567 loss 16.494028091430664
+2023-08-28 10:57:49,571 Parents Individual Number # 12
+2023-08-28 10:57:55,499 loss 29.00469970703125
+2023-08-28 10:57:55,503 Parents Individual Number # 13
+2023-08-28 10:58:01,762 loss 11.640732765197754
+2023-08-28 10:58:01,765 Parents Individual Number # 14
+2023-08-28 10:58:07,829 loss 17.59931755065918
+2023-08-28 10:58:07,832 Parents Individual Number # 15
+2023-08-28 10:58:13,834 loss 20.772022247314453
+2023-08-28 10:58:13,839 Parents Individual Number # 16
+2023-08-28 10:58:19,792 loss 24.557239532470703
+2023-08-28 10:58:19,795 Parents Individual Number # 17
+2023-08-28 10:58:25,945 loss 26.8841552734375
+2023-08-28 10:58:25,948 Parents Individual Number # 18
+2023-08-28 10:58:31,863 loss 20.187267303466797
+2023-08-28 10:58:31,867 Parents Individual Number # 19
+2023-08-28 10:58:37,683 loss 18.436399459838867
+2023-08-28 10:58:37,686 Parents Individual Number # 20
+2023-08-28 10:58:43,557 loss 12.58100414276123
+2023-08-28 10:58:43,560 Parents Individual Number # 21
+2023-08-28 10:58:49,386 loss 21.591693878173828
+2023-08-28 10:58:49,390 Parents Individual Number # 22
+2023-08-28 10:58:55,382 loss 17.38887596130371
+2023-08-28 10:58:55,386 Parents Individual Number # 23
+2023-08-28 10:59:01,332 loss 23.70196533203125
+2023-08-28 10:59:01,335 Parents Individual Number # 24
+2023-08-28 10:59:06,946 loss 23.988168716430664
+2023-08-28 10:59:06,949 Parents Individual Number # 25
+2023-08-28 10:59:12,928 loss 15.875110626220703
+2023-08-28 10:59:12,931 Parents Individual Number # 26
+2023-08-28 10:59:18,948 loss 42.06882095336914
+2023-08-28 10:59:18,952 Parents Individual Number # 27
+2023-08-28 10:59:25,021 loss 59.90514373779297
+2023-08-28 10:59:25,025 Parents Individual Number # 28
+2023-08-28 10:59:31,138 loss 32.35728454589844
+2023-08-28 10:59:31,141 Parents Individual Number # 29
+2023-08-28 10:59:37,055 loss 23.630535125732422
+2023-08-28 10:59:37,059 Parents Individual Number # 30
+2023-08-28 10:59:42,910 loss 43.22850036621094
+2023-08-28 10:59:42,914 Parents Individual Number # 31
+2023-08-28 10:59:48,848 loss 16.367427825927734
+2023-08-28 10:59:48,853 Parents Individual Number # 32
+2023-08-28 10:59:54,485 loss 13.325628280639648
+2023-08-28 10:59:54,488 Parents Individual Number # 33
+2023-08-28 11:00:00,209 loss 26.581928253173828
+2023-08-28 11:00:00,213 Parents Individual Number # 34
+2023-08-28 11:00:06,186 loss 21.501445770263672
+2023-08-28 11:00:06,189 Parents Individual Number # 35
+2023-08-28 11:00:12,197 loss 50.151771545410156
+2023-08-28 11:00:12,202 Parents Individual Number # 36
+2023-08-28 11:00:18,056 loss 34.51668167114258
+2023-08-28 11:00:18,058 Parents Individual Number # 37
+2023-08-28 11:00:24,062 loss 16.727561950683594
+2023-08-28 11:00:24,066 Parents Individual Number # 38
+2023-08-28 11:00:30,147 loss 49.201595306396484
+2023-08-28 11:00:30,151 Parents Individual Number # 39
+2023-08-28 11:00:36,034 loss 16.50266456604004
+2023-08-28 11:00:36,037 Parents Individual Number # 40
+2023-08-28 11:00:41,521 loss 24.83294677734375
+2023-08-28 11:00:41,524 Parents Individual Number # 41
+2023-08-28 11:00:47,764 loss 134.87713623046875
+2023-08-28 11:00:47,769 Parents Individual Number # 42
+2023-08-28 11:00:54,096 loss 28.707124710083008
+2023-08-28 11:00:54,101 Parents Individual Number # 43
+2023-08-28 11:01:00,733 loss 16.113420486450195
+2023-08-28 11:01:00,740 Parents Individual Number # 44
+2023-08-28 11:01:07,028 loss 45.49666213989258
+2023-08-28 11:01:07,032 Parents Individual Number # 45
+2023-08-28 11:01:12,947 loss 20.50726890563965
+2023-08-28 11:01:12,951 Parents Individual Number # 46
+2023-08-28 11:01:18,703 loss 17.233074188232422
+2023-08-28 11:01:18,706 Parents Individual Number # 47
+2023-08-28 11:01:24,550 loss 57.59234619140625
+2023-08-28 11:01:24,553 Parents Individual Number # 48
+2023-08-28 11:01:30,549 loss 38.271610260009766
+2023-08-28 11:01:30,553 Parents Individual Number # 49
+2023-08-28 11:01:36,450 loss 18.06783676147461
+2023-08-28 11:01:36,454 Parents Individual Number # 50
+2023-08-28 11:01:42,503 loss 27.069080352783203
+2023-08-28 11:01:42,507 Parents Individual Number # 51
+2023-08-28 11:01:48,313 loss 24.109012603759766
+2023-08-28 11:01:48,317 Parents Individual Number # 52
+2023-08-28 11:01:54,607 loss 17.422826766967773
+2023-08-28 11:01:54,612 Parents Individual Number # 53
+2023-08-28 11:02:00,703 loss 12.478443145751953
+2023-08-28 11:02:00,707 Parents Individual Number # 54
+2023-08-28 11:02:06,384 loss 13.064632415771484
+2023-08-28 11:02:06,388 Parents Individual Number # 55
+2023-08-28 11:02:12,244 loss 60.965728759765625
+2023-08-28 11:02:12,247 Parents Individual Number # 56
+2023-08-28 11:02:17,938 loss 12.208487510681152
+2023-08-28 11:02:17,941 Parents Individual Number # 57
+2023-08-28 11:02:24,009 loss 39.62367630004883
+2023-08-28 11:02:24,013 Parents Individual Number # 58
+2023-08-28 11:02:29,897 loss 24.977252960205078
+2023-08-28 11:02:29,900 Parents Individual Number # 59
+2023-08-28 11:02:35,239 loss 19.093738555908203
+2023-08-28 11:02:35,244 Parents Individual Number # 60
+2023-08-28 11:02:40,941 loss 40.13525390625
+2023-08-28 11:02:40,946 Parents Individual Number # 61
+2023-08-28 11:02:46,922 loss 29.292299270629883
+2023-08-28 11:02:46,926 Parents Individual Number # 62
+2023-08-28 11:02:52,756 loss 20.30643081665039
+2023-08-28 11:02:52,759 Parents Individual Number # 63
+2023-08-28 11:02:59,165 loss 94.04119873046875
+2023-08-28 11:02:59,168 Parents Individual Number # 64
+2023-08-28 11:03:05,570 loss 24.60549545288086
+2023-08-28 11:03:05,573 Parents Individual Number # 65
+2023-08-28 11:03:11,455 loss 42.94324493408203
+2023-08-28 11:03:11,458 Parents Individual Number # 66
+2023-08-28 11:03:17,507 loss 13.558300018310547
+2023-08-28 11:03:17,510 Parents Individual Number # 67
+2023-08-28 11:03:23,555 loss 30.703479766845703
+2023-08-28 11:03:23,558 Parents Individual Number # 68
+2023-08-28 11:03:29,597 loss 22.282508850097656
+2023-08-28 11:03:29,602 Parents Individual Number # 69
+2023-08-28 16:10:07,329 Parents_Trained_status: False
+2023-08-28 16:10:07,329 Resume Training Status: False
+2023-08-28 16:10:41,312 Parents Individual Number # 0
+2023-08-28 16:10:50,285 loss 23.543052673339844
+2023-08-28 16:10:50,295 Parents Individual Number # 1
+2023-08-28 16:10:55,783 loss 13.57320785522461
+2023-08-28 16:10:55,787 Parents Individual Number # 2
+2023-08-28 16:11:01,611 loss 19.853479385375977
+2023-08-28 16:11:01,615 Parents Individual Number # 3
+2023-08-28 16:11:07,537 loss 21.143024444580078
+2023-08-28 16:11:07,541 Parents Individual Number # 4
+2023-08-28 16:11:12,884 loss 14.757568359375
+2023-08-28 16:11:12,888 Parents Individual Number # 5
+2023-08-28 16:11:18,527 loss 16.3546142578125
+2023-08-28 16:11:18,530 Parents Individual Number # 6
+2023-08-28 16:11:24,753 loss 19.30886459350586
+2023-08-28 16:11:24,757 Parents Individual Number # 7
+2023-08-28 16:11:30,768 loss 19.932754516601562
+2023-08-28 16:11:30,772 Parents Individual Number # 8
+2023-08-28 16:11:36,345 loss 17.183679580688477
+2023-08-28 16:11:36,349 Parents Individual Number # 9
+2023-08-28 16:11:41,901 loss 21.003889083862305
+2023-08-28 16:11:41,904 Parents Individual Number # 10
+2023-08-28 16:11:47,935 loss 28.870450973510742
+2023-08-28 16:11:47,938 Parents Individual Number # 11
+2023-08-28 16:11:53,819 loss 22.400131225585938
+2023-08-28 16:11:53,823 Parents Individual Number # 12
+2023-08-28 16:11:59,913 loss 19.898170471191406
+2023-08-28 16:11:59,917 Parents Individual Number # 13
+2023-08-28 16:12:05,873 loss 24.38640022277832
+2023-08-28 16:12:05,878 Parents Individual Number # 14
+2023-08-28 16:12:11,934 loss 17.352285385131836
+2023-08-28 16:12:11,938 Parents Individual Number # 15
+2023-08-28 16:12:18,007 loss 21.757423400878906
+2023-08-28 16:12:18,011 Parents Individual Number # 16
+2023-08-28 16:12:24,321 loss 13.001501083374023
+2023-08-28 16:12:24,324 Parents Individual Number # 17
+2023-08-28 16:12:30,631 loss 20.636369705200195
+2023-08-28 16:12:30,634 Parents Individual Number # 18
+2023-08-28 16:12:36,638 loss 23.052562713623047
+2023-08-28 16:12:36,641 Parents Individual Number # 19

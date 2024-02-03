@@ -1,0 +1,72 @@
+2023/08/31 10:41:56 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 10:47:45 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 30846289175658.21, Global best: 30846289175658.21, Runtime: 197.51439 seconds
+2023/08/31 10:51:03 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 30846289175658.21, Global best: 30846289175658.21, Runtime: 198.05474 seconds
+2023/08/31 10:54:51 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 3, Current best: 83663789269049.88, Global best: 83663789269049.88, Runtime: 227.81760 seconds
+2023/08/31 11:00:44 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 4, Current best: 2060642653806346.0, Global best: 2060642653806346.0, Runtime: 353.14145 seconds
+2023/08/31 11:25:13 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 11:26:05 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 8554903833750.304, Global best: 8554903833750.304, Runtime: 27.40505 seconds
+2023/08/31 11:26:31 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 8554903833750.304, Global best: 8554903833750.304, Runtime: 26.08965 seconds
+2023/08/31 11:36:17 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 11:36:54 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 96873135180692.72, Global best: 96873135180692.72, Runtime: 18.99810 seconds
+2023/08/31 11:37:14 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 726694418329459.8, Global best: 726694418329459.8, Runtime: 19.94909 seconds
+2023/08/31 11:39:28 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 11:40:05 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 2037257690354.3447, Global best: 2037257690354.3447, Runtime: 18.84991 seconds
+2023/08/31 11:40:23 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 2037257690354.3447, Global best: 2037257690354.3447, Runtime: 18.35629 seconds
+2023/08/31 11:41:36 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 11:42:15 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 2743012118057.821, Global best: 2743012118057.821, Runtime: 19.59851 seconds
+2023/08/31 11:42:35 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 191987757904731.44, Global best: 191987757904731.44, Runtime: 19.90098 seconds
+2023/08/31 11:43:46 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 11:44:25 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 2392080680499.228, Global best: 2392080680499.228, Runtime: 19.74006 seconds
+2023/08/31 11:44:44 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 2392080680499.228, Global best: 2392080680499.228, Runtime: 19.76333 seconds
+2023/08/31 11:59:25 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 12:00:15 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 871438790312.7122, Global best: 871438790312.7122, Runtime: 24.41748 seconds
+2023/08/31 12:00:40 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 871438790312.7122, Global best: 871438790312.7122, Runtime: 24.75323 seconds
+2023/08/31 03:31:03 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/08/31 03:31:44 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 1712435521668.774, Global best: 1712435521668.774, Runtime: 20.69563 seconds
+2023/08/31 03:32:04 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 2, Current best: 1712435521668.774, Global best: 1712435521668.774, Runtime: 20.61730 seconds
+2023/09/05 02:13:03 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/05 02:18:50 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/05 02:31:28 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/05 02:35:16 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/05 03:18:34 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 09:08:11 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 09:09:43 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 09:39:14 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 09:40:10 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: >Problem: P, Epoch: 1, Current best: 80318319604566.16, Global best: 80318319604566.16, Runtime: 28.02371 seconds
+2023/09/06 03:36:21 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: Solving single objective optimization problem.
+2023/09/06 03:56:48 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: Solving single objective optimization problem.
+2023/09/06 04:09:59 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:09:59 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:09:59 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:09:59 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:09:59 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:15:01 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:15:01 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:15:02 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:15:02 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:15:02 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:22:40 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:22:40 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:22:40 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:22:40 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/06 04:22:40 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/13 04:45:14 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/13 04:45:14 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/13 04:45:14 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/13 04:45:14 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/13 04:45:14 PM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:40:29 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:40:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:40:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:40:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:40:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:50:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:50:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:50:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:50:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:50:30 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:52:33 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:52:33 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:52:34 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:52:34 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
+2023/09/15 09:52:35 AM, INFO, mealpy.evolutionary_based.DE.BaseDE: Solving single objective optimization problem.
